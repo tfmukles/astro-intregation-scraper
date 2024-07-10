@@ -1,0 +1,3929 @@
+[
+  {
+    "packageName": " @astrojs/tailwind Official ",
+    "desc": "Use Tailwind CSS to style your Astro site",
+    "totalDownloads": "460K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/tailwind/"
+  },
+  {
+    "packageName": " astro-imagetools  ",
+    "desc": "Image Optimization tools for the Astro JS framework",
+    "totalDownloads": "6.4K",
+    "link": "https://github.com/RafidMuhymin/astro-imagetools#readme",
+    "stars": 389,
+    "forks": 46,
+    "issues": 83
+  },
+  {
+    "packageName": " @astrojs/partytown Official ",
+    "desc": "Use Partytown to move scripts into a web worker in your Astro project",
+    "totalDownloads": "113K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/partytown/"
+  },
+  {
+    "packageName": " @playform/compress  ",
+    "desc": "🗜️ Compress —",
+    "totalDownloads": "17K",
+    "link": "HTTPS://GitHub.Com/PlayForm/Compress#readme"
+  },
+  {
+    "packageName": " @storyblok/astro  ",
+    "desc": "Official Astro integration for the Storyblok Headless CMS",
+    "totalDownloads": "13K",
+    "link": "https://github.com/storyblok/storyblok-astro",
+    "stars": 145,
+    "forks": 26,
+    "issues": 11
+  },
+  {
+    "packageName": " astro-icon  ",
+    "desc": "This Astro integration provides a straight-forward `Icon` component for Astro.",
+    "totalDownloads": "146K",
+    "link": "https://github.com/natemoo-re/astro-icon#readme",
+    "stars": 1002,
+    "forks": 57,
+    "issues": 35
+  },
+  {
+    "packageName": " astro-eleventy-img  ",
+    "desc": "Astro + eleventy-img",
+    "totalDownloads": "269",
+    "link": "https://github.com/Princesseuh/astro-eleventy-img#readme",
+    "stars": 43,
+    "forks": 7,
+    "issues": 1
+  },
+  {
+    "packageName": " @astrojs/sitemap Official ",
+    "desc": "Generate a sitemap for your Astro site",
+    "totalDownloads": "395K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/sitemap/"
+  },
+  {
+    "packageName": " astro-robots-txt  ",
+    "desc": "Generate a robots.txt for Astro",
+    "totalDownloads": "39K",
+    "link": "https://github.com/alextim/astro-lib/tree/main/packages/astro-robots-txt#readme",
+    "stars": 99,
+    "forks": 5,
+    "issues": 9
+  },
+  {
+    "packageName": " astro-seo  ",
+    "desc": "Makes it easy to add SEO relevant tags to your Astro app.",
+    "totalDownloads": "69K",
+    "link": "https://github.com/jonasmerlin/astro-seo#readme",
+    "stars": 876,
+    "forks": 49,
+    "issues": 10
+  },
+  {
+    "packageName": " astro-xelement  ",
+    "desc": "XElement is a powerful Astro Web Component generator. Create your own Astro compliant Web Components using only HTML Elements with additional Client-Side JS/TS interactivity sprinkled into the Element.",
+    "totalDownloads": "150",
+    "link": "https://github.com/aFuzzyBear/xelement",
+    "stars": 46,
+    "forks": 5,
+    "issues": 6
+  },
+  {
+    "packageName": " astro-spa  ",
+    "desc": "A component for Astro JS that turns a website into an SPA",
+    "totalDownloads": "344",
+    "link": "https://github.com/RafidMuhymin/astro-spa#readme",
+    "stars": 387,
+    "forks": 14,
+    "issues": 6
+  },
+  {
+    "packageName": " @astrojs/mdx Official ",
+    "desc": "Add support for MDX pages in your Astro site",
+    "totalDownloads": "331K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/mdx/"
+  },
+  {
+    "packageName": " accessible-astro-components  ",
+    "desc": "A set of Accessible, easy to use, Front-end UI Components for Astro.",
+    "totalDownloads": "4.3K",
+    "link": "https://accessible-astro.netlify.app/accessible-components/"
+  },
+  {
+    "packageName": " astro-i18next  ",
+    "desc": "An astro integration of i18next + some utility components to help you translate your astro websites!",
+    "totalDownloads": "8.3K",
+    "link": "https://astro-i18next.yassinedoghri.com/"
+  },
+  {
+    "packageName": " @astropub/icons  ",
+    "desc": "Radix Icons for Astro",
+    "totalDownloads": "211",
+    "link": "https://github.com/astro-community/icons#readme",
+    "stars": 62,
+    "forks": 5,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-json-element  ",
+    "desc": "Create/define HTML elements using JSON objects",
+    "totalDownloads": "50",
+    "link": "https://github.com/BryceRussell/astro-json-element#readme",
+    "stars": 42,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @unocss/astro  ",
+    "desc": "UnoCSS integration for Astro",
+    "totalDownloads": "1.2M",
+    "link": "https://github.com/unocss/unocss#readme",
+    "stars": 15877,
+    "forks": 794,
+    "issues": 85
+  },
+  {
+    "packageName": " @astrojs/prism Official ",
+    "desc": "Add Prism syntax highlighting support to your Astro site",
+    "totalDownloads": "902K",
+    "link": "https://docs.astro.build/en/reference/api-reference/#prism-"
+  },
+  {
+    "packageName": " @astrojs/react Official ",
+    "desc": "Use React components within Astro",
+    "totalDownloads": "367K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/react/"
+  },
+  {
+    "packageName": " @astrojs/node Official ",
+    "desc": "Deploy your site to a Node.js server",
+    "totalDownloads": "161K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/node/"
+  },
+  {
+    "packageName": " @astrojs/cloudflare Official ",
+    "desc": "Deploy your site to Cloudflare Workers/Pages",
+    "totalDownloads": "119K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/cloudflare/"
+  },
+  {
+    "packageName": " @astrojs/starlight Official ",
+    "desc": "Build beautiful, high-performance documentation websites with Astro",
+    "totalDownloads": "95K",
+    "link": "https://starlight.astro.build"
+  },
+  {
+    "packageName": " @astrojs/vercel Official ",
+    "desc": "Deploy your site to Vercel",
+    "totalDownloads": "81K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/vercel/"
+  },
+  {
+    "packageName": " @astrojs/vue Official ",
+    "desc": "Use Vue components within Astro",
+    "totalDownloads": "77K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/vue/"
+  },
+  {
+    "packageName": " astro-compress  ",
+    "desc": "🗜️ Compress —",
+    "totalDownloads": "76K",
+    "link": "HTTPS://GitHub.Com/PlayForm/Compress#readme"
+  },
+  {
+    "packageName": " @astrojs/svelte Official ",
+    "desc": "Use Svelte components within Astro",
+    "totalDownloads": "75K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/svelte/"
+  },
+  {
+    "packageName": " @astrolib/seo  ",
+    "desc": "Managing your SEO easier in Astro projects",
+    "totalDownloads": "57K",
+    "link": "https://github.com/onwidget/astrolib/tree/main/packages/seo",
+    "stars": 37,
+    "forks": 6,
+    "issues": 8
+  },
+  {
+    "packageName": " @astrolib/analytics  ",
+    "desc": "Provides Analytics snippets injection for popular web analytics tools",
+    "totalDownloads": "54K",
+    "link": "https://github.com/onwidget/astrolib/tree/main/packages/analytics",
+    "stars": 37,
+    "forks": 6,
+    "issues": 8
+  },
+  {
+    "packageName": " @astrojs/solid-js Official ",
+    "desc": "Use Solid components within Astro",
+    "totalDownloads": "31K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/solid-js/"
+  },
+  {
+    "packageName": " @astrojs/preact Official ",
+    "desc": "Use Preact components within Astro",
+    "totalDownloads": "29K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/preact/"
+  },
+  {
+    "packageName": " @astrojs/netlify Official ",
+    "desc": "Deploy your site to Netlify",
+    "totalDownloads": "28K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/netlify/"
+  },
+  {
+    "packageName": " @sentry/astro  ",
+    "desc": "Official Sentry SDK for Astro",
+    "totalDownloads": "27K",
+    "link": "https://github.com/getsentry/sentry-javascript/tree/master/packages/astro",
+    "stars": 7763,
+    "forks": 1519,
+    "issues": 370
+  },
+  {
+    "packageName": " astro-sst  ",
+    "desc": "Adapter that allows Astro to deploy your site to AWS utilizing SST.",
+    "totalDownloads": "27K",
+    "link": "https://github.com/sst/sst#readme",
+    "stars": 21037,
+    "forks": 1613,
+    "issues": 820
+  },
+  {
+    "packageName": " @astro-community/astro-embed-youtube  ",
+    "desc": "Component to easily embed YouTube videos on your Astro site",
+    "totalDownloads": "25K",
+    "link": "https://astro-embed.netlify.app/components/youtube/"
+  },
+  {
+    "packageName": " astro-auto-import  ",
+    "desc": "Auto-import components in Astro projects",
+    "totalDownloads": "24K",
+    "link": "https://github.com/delucis/astro-auto-import#readme",
+    "stars": 82,
+    "forks": 2,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-compressor  ",
+    "desc": "A gzip and brotli compressor for Astro",
+    "totalDownloads": "19K",
+    "link": "https://github.com/sondr3/astro-compressor#readme",
+    "stars": 64,
+    "forks": 2,
+    "issues": 0
+  },
+  {
+    "packageName": " @astro-community/astro-embed-twitter  ",
+    "desc": "Component to easily embed Tweets on your Astro site",
+    "totalDownloads": "18K",
+    "link": "https://astro-embed.netlify.app/components/twitter/"
+  },
+  {
+    "packageName": " @astrojs/alpinejs Official ",
+    "desc": "Use Alpine within Astro",
+    "totalDownloads": "16K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/alpinejs"
+  },
+  {
+    "packageName": " astro-font  ",
+    "desc": "Automatically optimize your custom fonts, local fonts, fonts over any CDN, and Google fonts for performance.",
+    "totalDownloads": "15K",
+    "link": "https://launchfa.st/features/astro-font"
+  },
+  {
+    "packageName": " astro-navbar  ",
+    "desc": "A fully accessible responsive headless navigation bar for Astro. It supports mobile responsive toggle and dropdowns.",
+    "totalDownloads": "15K",
+    "link": "https://github.com/surjithctly/astro-navbar#readme",
+    "stars": 130,
+    "forks": 10,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-embed  ",
+    "desc": "Astro components to easily embed common media formats",
+    "totalDownloads": "15K",
+    "link": "https://astro-embed.netlify.app/"
+  },
+  {
+    "packageName": " @astro-community/astro-embed-vimeo  ",
+    "desc": "Component to easily embed Vimeo videos on your Astro site",
+    "totalDownloads": "15K",
+    "link": "https://astro-embed.netlify.app/components/vimeo/"
+  },
+  {
+    "packageName": " astro-seo-schema  ",
+    "desc": "Easily insert valid Schema.org JSON-LD in your Astro apps.",
+    "totalDownloads": "13K",
+    "link": "https://github.com/codiume/orbit",
+    "stars": 294,
+    "forks": 12,
+    "issues": 1
+  },
+  {
+    "packageName": " @astro-community/astro-embed-link-preview  ",
+    "desc": "Component to embed a website’s OpenGraph image and metadata on your Astro site",
+    "totalDownloads": "13K",
+    "link": "https://astro-embed.netlify.app/components/link-preview/"
+  },
+  {
+    "packageName": " @astrojs/lit Official ",
+    "desc": "Use Lit components within Astro",
+    "totalDownloads": "13K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/lit/"
+  },
+  {
+    "packageName": " auth-astro  ",
+    "desc": "The easiest way to add authentication to your Astro project!",
+    "totalDownloads": "11K",
+    "link": "https://www.npmjs.com/package/auth-astro"
+  },
+  {
+    "packageName": " astro-purgecss  ",
+    "desc": "Remove unused CSS rules from your final Astro bundle",
+    "totalDownloads": "9.8K",
+    "link": "https://github.com/codiume/orbit",
+    "stars": 294,
+    "forks": 12,
+    "issues": 1
+  },
+  {
+    "packageName": " @sanity/astro  ",
+    "desc": "Official Sanity Astro integration",
+    "totalDownloads": "8.7K",
+    "link": "https://www.sanity.io/plugins/sanity-astro"
+  },
+  {
+    "packageName": " astro-portabletext  ",
+    "desc": "Render Portable Text with Astro",
+    "totalDownloads": "8.4K",
+    "link": "https://github.com/theisel/astro-portabletext#readme",
+    "stars": 55,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-remote  ",
+    "desc": "Render remote HTML or Markdown content in Astro with full control over the output.",
+    "totalDownloads": "7.9K",
+    "link": "https://github.com/natemoo-re/astro-remote#README",
+    "stars": 159,
+    "forks": 7,
+    "issues": 6
+  },
+  {
+    "packageName": " @playform/inline  ",
+    "desc": "🦔 Inline —",
+    "totalDownloads": "7.8K",
+    "link": "HTTPS://GitHub.Com/PlayForm/Inline#readme"
+  },
+  {
+    "packageName": " astro-capo  ",
+    "desc": "Automatically sort your head with capo.js in Astro",
+    "totalDownloads": "7.4K",
+    "link": "https://github.com/natemoo-re/astro-capo#readme",
+    "stars": 55,
+    "forks": 2,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-critters  ",
+    "desc": "🦔 Inline —",
+    "totalDownloads": "7.4K",
+    "link": "HTTPS://GitHub.Com/PlayForm/Inline#readme"
+  },
+  {
+    "packageName": " astro-vtbot  ",
+    "desc": "The 👜 Bag of Tricks ✨ for Astro's View Transitions",
+    "totalDownloads": "6.9K",
+    "link": "https://github.com/martrapp/astro-vtbot#readme",
+    "stars": 134,
+    "forks": 2,
+    "issues": 0
+  },
+  {
+    "packageName": " @astrojs/markdoc Official ",
+    "desc": "Add support for Markdoc in your Astro site",
+    "totalDownloads": "6.7K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/markdoc/"
+  },
+  {
+    "packageName": " astro-integration-kit  ",
+    "desc": "A package that contains utilities to help you build Astro integrations.",
+    "totalDownloads": "6.6K",
+    "link": "https://github.com/florian-lefebvre/astro-integration-kit",
+    "stars": 46,
+    "forks": 8,
+    "issues": 9
+  },
+  {
+    "packageName": " astro-pagefind  ",
+    "desc": "Astro integration for Pagefind static site search",
+    "totalDownloads": "6.6K",
+    "link": "https://github.com/shishkin/astro-pagefind",
+    "stars": 182,
+    "forks": 12,
+    "issues": 9
+  },
+  {
+    "packageName": " astro-og-canvas  ",
+    "desc": "Generate OpenGraph images for your Astro site",
+    "totalDownloads": "6.1K",
+    "link": "https://github.com/delucis/astro-og-canvas#readme",
+    "stars": 140,
+    "forks": 15,
+    "issues": 4
+  },
+  {
+    "packageName": " lucide-astro  ",
+    "desc": "Get your Lucide icons right into your Astro project",
+    "totalDownloads": "6K",
+    "link": "https://lucide-astro.dzeio.com"
+  },
+  {
+    "packageName": " astrojs-service-worker  ",
+    "desc": "An Astro integration that generates a Service Worker. Powered by Workbox.",
+    "totalDownloads": "5.7K",
+    "link": "https://github.com/tatethurston/astrojs-service-worker#readme",
+    "stars": 68,
+    "forks": 7,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-meta-tags  ",
+    "desc": "A Dev Toolbar extension to debug meta tags in your Astro website",
+    "totalDownloads": "5.2K",
+    "link": "https://github.com/patrick91/astro-meta-tags#readme",
+    "stars": 65,
+    "forks": 2,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-google-fonts-optimizer  ",
+    "desc": "An Astro integration to optimize the Google Fonts loading performance",
+    "totalDownloads": "5K",
+    "link": "https://github.com/sebholstein/astro-google-fonts-optimizer",
+    "stars": 104,
+    "forks": 7,
+    "issues": 5
+  },
+  {
+    "packageName": " @swup/astro  ",
+    "desc": "Smooth page transitions, smart preloading and more in Astro",
+    "totalDownloads": "4.5K",
+    "link": "https://swup.js.org"
+  },
+  {
+    "packageName": " @spotlightjs/astro  ",
+    "desc": "Add spotlight to your Astro toolbar, for better debugging.",
+    "totalDownloads": "4.3K",
+    "link": "https://github.com/getsentry/spotlight/blob/main/packages/astro/README.md",
+    "stars": 323,
+    "forks": 11,
+    "issues": 52
+  },
+  {
+    "packageName": " @playform/format  ",
+    "desc": "🗻 Format —",
+    "totalDownloads": "4.1K",
+    "link": "HTTPS://GitHub.Com/PlayForm/Format#readme"
+  },
+  {
+    "packageName": " astro-breadcrumbs  ",
+    "desc": "Well configurable breadcrumb component for Astro.js. Create breadcrumbs completely dynamically or specify exactly how they should look.",
+    "totalDownloads": "3.8K",
+    "link": "https://docs.astro-breadcrumbs.kasimir.dev"
+  },
+  {
+    "packageName": " @inlang/paraglide-astro  ",
+    "desc": "A fully type-safe i18n library specifically designed for partial hydration patterns like Astro's islands.",
+    "totalDownloads": "3.3K",
+    "link": "https://inlang.com/m/iljlwzfs/paraglide-astro-i18n"
+  },
+  {
+    "packageName": " @astropub/md  ",
+    "desc": "Render any Markdown content in Astro",
+    "totalDownloads": "3.3K",
+    "link": "https://github.com/astro-community/md",
+    "stars": 60,
+    "forks": 7,
+    "issues": 4
+  },
+  {
+    "packageName": " @unpic/astro  ",
+    "desc": "A high-performance, responsive image service and component library for Astro",
+    "totalDownloads": "3.3K",
+    "link": "https://unpic.pics/img/astro"
+  },
+  {
+    "packageName": " astro-webmanifest  ",
+    "desc": "Generate a webmanifest and icons for Astro to make progressive web apps",
+    "totalDownloads": "3.3K",
+    "link": "https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest#readme",
+    "stars": 99,
+    "forks": 5,
+    "issues": 9
+  },
+  {
+    "packageName": " astro-feather-icons  ",
+    "desc": "Feather icons for Astro (based on svelte-feather-icons by dylanblokhuis)",
+    "totalDownloads": "2.7K",
+    "link": "https://github.com/edazpotato/astro-feather-icons#readme",
+    "stars": 9,
+    "forks": 2,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-htmx  ",
+    "desc": "This **Astro integration](https://astro.build/integrations/)** adds [HTMX.org to your project so that you can use HTMX.org anywhere on your page.",
+    "totalDownloads": "2.5K",
+    "link": "https://github.com/xstevenyung/astro-htmx#readme",
+    "stars": 54,
+    "forks": 2,
+    "issues": 1
+  },
+  {
+    "packageName": " @astrojs/deno Official ",
+    "desc": "Deploy your site to a Deno server",
+    "totalDownloads": "2.4K",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/deno/"
+  },
+  {
+    "packageName": " simple-stack-form  ",
+    "desc": "A simple form library for Astro projects",
+    "totalDownloads": "2.4K",
+    "link": "https://github.com/bholmesdev/simple-stack#readme",
+    "stars": 230,
+    "forks": 7,
+    "issues": 2
+  },
+  {
+    "packageName": " @qwikdev/astro  ",
+    "desc": "Use Qwik components and Resumability within Astro",
+    "totalDownloads": "2.3K",
+    "link": "https://github.com/QwikDev/astro#readme",
+    "stars": 192,
+    "forks": 13,
+    "issues": 10
+  },
+  {
+    "packageName": " astro-analytics  ",
+    "desc": "Analytics components for Astro",
+    "totalDownloads": "2.1K",
+    "link": "https://github.com/Destiner/astro-analytics#readme",
+    "stars": 109,
+    "forks": 11,
+    "issues": 7
+  },
+  {
+    "packageName": " astro-relative-links  ",
+    "desc": "Build Astro with relative links.",
+    "totalDownloads": "2.1K",
+    "link": "https://github.com/ixkaito/astro-relative-links#readme",
+    "stars": 61,
+    "forks": 4,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-dynamic-import  ",
+    "desc": "Let your CMS decide which components to import.",
+    "totalDownloads": "2K",
+    "link": "https://github.com/lilnasy/gratelets/tree/main/packages/dynamic-import",
+    "stars": 95,
+    "forks": 6,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-heroicons  ",
+    "desc": "Heroicons as Astro components",
+    "totalDownloads": "1.8K",
+    "link": "https://github.com/seanmcp/astro-heroicons#readme",
+    "stars": 29,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @astrojs/markdown-component Official ",
+    "desc": "Use the legacy Markdown component in your Astro site",
+    "totalDownloads": "1.7K",
+    "link": "https://docs.astro.build/en/migrate/#markdown--component-removed"
+  },
+  {
+    "packageName": " @analogjs/astro-angular  ",
+    "desc": "Use Angular components within Astro",
+    "totalDownloads": "1.7K",
+    "link": "https://analogjs.org"
+  },
+  {
+    "packageName": " simple-icons-astro  ",
+    "desc": "Get your Simple icons right into your Astro project",
+    "totalDownloads": "1.5K",
+    "link": "https://simple-icons-astro.dzeio.com"
+  },
+  {
+    "packageName": " astro-iconify  ",
+    "desc": "Fork of astro-icon. Lets you easily use the up to date iconify service as a straight forward astro icon component.",
+    "totalDownloads": "1.5K",
+    "link": "https://github.com/manuelmeister/astro-iconify#readme",
+    "stars": 29,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-adds-to-head  ",
+    "desc": "Fix a corner case in content collections rendering.",
+    "totalDownloads": "1.5K",
+    "link": "https://github.com/lilnasy/gratelets/tree/main/packages/adds-to-head",
+    "stars": 95,
+    "forks": 6,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-integration-lottie  ",
+    "desc": "Use Lottie animations within your Astro website",
+    "totalDownloads": "1.4K",
+    "link": "https://github.com/giuseppelt/astro-lottie#readme.md",
+    "stars": 26,
+    "forks": 6,
+    "issues": 1
+  },
+  {
+    "packageName": " @deno/astro-adapter  ",
+    "desc": "Deploy your Astro site to a Deno server",
+    "totalDownloads": "1.4K",
+    "link": "https://github.com/denoland/deno-astro-adapter/",
+    "stars": 61,
+    "forks": 16,
+    "issues": 4
+  },
+  {
+    "packageName": " astro-i18n-aut  ",
+    "desc": "The i18n integration for Astro 🧑‍🚀",
+    "totalDownloads": "1.4K",
+    "link": "https://github.com/jlarmstrongiv/astro-i18n-aut/#readme",
+    "stars": 104,
+    "forks": 9,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-page-insight  ",
+    "desc": "Shows everything to improve from Lighthouse results directly on the page.",
+    "totalDownloads": "1.4K",
+    "link": "https://astro-page-insight.pages.dev/"
+  },
+  {
+    "packageName": " astro-better-image-service  ",
+    "desc": "Astro integration for image compression and conversion, superseding Astro's default image service.",
+    "totalDownloads": "1.3K",
+    "link": "https://github.com/risu729/astro-better-image-service#readme",
+    "stars": 9,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-graphql-plugin  ",
+    "desc": "Astro plugin generating Markdown documentation from a GraphQL schema. This plugin is modified off the docusaurus-graphql-plugin](https://github.com/zhouzi/docusaurus-graphql-plugin) by [Gabin Aureche. If, for some reason, you ",
+    "totalDownloads": "1.3K",
+    "link": "https://github.com/interledger/astro-graphql-plugin#readme",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @astropub/flow  ",
+    "desc": "Use components to control flow in Astro",
+    "totalDownloads": "1.2K",
+    "link": "https://github.com/astro-community/flow",
+    "stars": 49,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-tweet  ",
+    "desc": "Embed tweets in your Astro sites with zero JavaScript on the client side. This is a (slightly opinionated) port of the fantastic react-tweet library. Huge thanks to Vercel and all the contributors of react-tweet.",
+    "totalDownloads": "1.2K",
+    "link": "https://www.npmjs.com/package/astro-tweet"
+  },
+  {
+    "packageName": " astro-i18n  ",
+    "desc": "A TypeScript-first internationalization library for Astro.",
+    "totalDownloads": "1.2K",
+    "link": "https://github.com/alexandre-fernandez/astro-i18n",
+    "stars": 240,
+    "forks": 10,
+    "issues": 12
+  },
+  {
+    "packageName": " @jop-software/astro-cookieconsent  ",
+    "desc": "vanilla-cookieconsent for astro",
+    "totalDownloads": "1.1K",
+    "link": "https://github.com/jop-software/astro-cookieconsent#readme",
+    "stars": 42,
+    "forks": 3,
+    "issues": 4
+  },
+  {
+    "packageName": " astro-opengraph-images  ",
+    "desc": "Generate Open Graph images for your Astro site.",
+    "totalDownloads": "1.1K",
+    "link": "https://github.com/shepherdjerred/astro-opengraph-images",
+    "stars": 1,
+    "forks": 1,
+    "issues": 5
+  },
+  {
+    "packageName": " @astro-utils/forms  ",
+    "desc": "Server component for Astro (call server functions from client side with validation and state management)",
+    "totalDownloads": "1.1K",
+    "link": "https://withastro-utils.github.io/docs/"
+  },
+  {
+    "packageName": " mr-world  ",
+    "desc": "The global variable integration for Astro 🌐",
+    "totalDownloads": "1K",
+    "link": "https://github.com/jlarmstrongiv/mr-world/#readme",
+    "stars": 4,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-markdoc-renderer  ",
+    "desc": "Markdoc renderer for Astro",
+    "totalDownloads": "992",
+    "link": "https://www.npmjs.com/package/astro-markdoc-renderer"
+  },
+  {
+    "packageName": " astro-tunnel  ",
+    "desc": "Expose your local Astro server to the internet",
+    "totalDownloads": "975",
+    "link": "https://github.com/morinokami/astro-tunnel#readme",
+    "stars": 50,
+    "forks": 2,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-robots  ",
+    "desc": "The lightweight robots.txt generator makes it simple to create compliant robots.txt files specifically for Astro integrations, with zero-config support, an intuitive JSDoc API, and always up-to-date verified bots user-agents.",
+    "totalDownloads": "964",
+    "link": "https://github.com/ACP-CODE/astro-robots#readme",
+    "stars": 11,
+    "forks": 2,
+    "issues": 0
+  },
+  {
+    "packageName": " @kindspells/astro-shield  ",
+    "desc": "Astro integration to enhance your website's security with SubResource Integrity hashes, Content-Security-Policy headers, and other techniques.",
+    "totalDownloads": "933",
+    "link": "https://astro-shield.kindspells.dev"
+  },
+  {
+    "packageName": " astro-bootstrap  ",
+    "desc": "Bootstrap 5 components crafted for use with Astro",
+    "totalDownloads": "861",
+    "link": "https://astro-bootstrap.github.io"
+  },
+  {
+    "packageName": " astro-seo-meta  ",
+    "desc": "Astro seo provides a <Seo> component to update meta tags",
+    "totalDownloads": "849",
+    "link": "https://github.com/codiume/orbit",
+    "stars": 294,
+    "forks": 12,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-loading-indicator  ",
+    "desc": "Display a progress bar between page navigations when using View Transitions",
+    "totalDownloads": "849",
+    "link": "https://github.com/florian-lefebvre/astro-loading-indicator",
+    "stars": 51,
+    "forks": 4,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-sitemap  ",
+    "desc": "Generate a sitemap for Astro with more control",
+    "totalDownloads": "838",
+    "link": "https://github.com/alextim/astro-lib/tree/main/packages/astro-sitemap#readme",
+    "stars": 99,
+    "forks": 5,
+    "issues": 9
+  },
+  {
+    "packageName": " astro-matomo  ",
+    "desc": "Matomo integration for Astro",
+    "totalDownloads": "825",
+    "link": "https://github.com/felix-berlin/astro-matomo",
+    "stars": 10,
+    "forks": 2,
+    "issues": 4
+  },
+  {
+    "packageName": " astro-social-share  ",
+    "desc": "Social media share buttons for your Astro site",
+    "totalDownloads": "808",
+    "link": "https://github.com/silent1mezzo/astro-social-share#readme",
+    "stars": 35,
+    "forks": 4,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-single-file  ",
+    "desc": "Astro integration that allows developers to bundle the CSS and HTML in a single file",
+    "totalDownloads": "804",
+    "link": "https://github.com/onmax/astro-single-file",
+    "stars": 15,
+    "forks": 2,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-remark-description  ",
+    "desc": "Remark plugin for Astro to automatically add description text to the frontmatter of markdown files",
+    "totalDownloads": "803",
+    "link": "https://github.com/BryceRussell/astro-remark-description#readme",
+    "stars": 6,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-aws-amplify  ",
+    "desc": "Deploy Astro to AWS Amplify (SSR)",
+    "totalDownloads": "784",
+    "link": "https://github.com/alexnguyennz/astro-aws-amplify",
+    "stars": 16,
+    "forks": 2,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-themes  ",
+    "desc": "Easy dark mode for Astro websites",
+    "totalDownloads": "729",
+    "link": "https://github.com/alex-grover/astro-themes#readme",
+    "stars": 53,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-feelback  ",
+    "desc": "Use Feelback service within your Astro website",
+    "totalDownloads": "714",
+    "link": "https://www.feelback.dev"
+  },
+  {
+    "packageName": " astro-favicons  ",
+    "desc": "A Multi-platform, All Browser Favicon generator for Astro Project.",
+    "totalDownloads": "714",
+    "link": "https://github.com/ACP-CODE/astro-favicons#readme",
+    "stars": 23,
+    "forks": 3,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-google-analytics  ",
+    "desc": "Provides Google Analytics 4 snippet injection.",
+    "totalDownloads": "706",
+    "link": "https://code.juliancataldo.com/component/astro-analytics"
+  },
+  {
+    "packageName": " @astrojs/web-vitals Official ",
+    "desc": "Track your website’s performance with Astro DB",
+    "totalDownloads": "671",
+    "link": "https://github.com/withastro/astro#readme",
+    "stars": 44129,
+    "forks": 2292,
+    "issues": 162
+  },
+  {
+    "packageName": " fulldev-ui  ",
+    "desc": "A component library built for Astro",
+    "totalDownloads": "670",
+    "link": "https://ui.full.dev/"
+  },
+  {
+    "packageName": " @matthiesenxyz/astrolace  ",
+    "desc": "An easy way to use Shoelace.style within your Astro Project!",
+    "totalDownloads": "638",
+    "link": "https://matthiesen.xyz"
+  },
+  {
+    "packageName": " astro-link  ",
+    "desc": "Supercharge your links. This component detects external / anchor / same domain / mail / telephone `href`, and apply optimizations accordingly.",
+    "totalDownloads": "595",
+    "link": "https://code.juliancataldo.com/component/astro-link"
+  },
+  {
+    "packageName": " astro-particles  ",
+    "desc": "Official tsParticles Astro Component - Easily create highly customizable particle, confetti and fireworks animations and use them as animated backgrounds for your website. Ready to use components available also for Web Components, Vue.js (2.x and 3.x), An",
+    "totalDownloads": "581",
+    "link": "https://github.com/tsparticles/astro#readme",
+    "stars": 34,
+    "forks": 4,
+    "issues": 14
+  },
+  {
+    "packageName": " @orama/plugin-astro  ",
+    "desc": "An Astro integration for Orama",
+    "totalDownloads": "576",
+    "link": "https://github.com/oramasearch/orama#readme",
+    "stars": 8290,
+    "forks": 275,
+    "issues": 41
+  },
+  {
+    "packageName": " astro-min  ",
+    "desc": "Extremely ⚡ fast and smart 🟠 HTML 🟡 JS 🔵 CSS 🟣 SVG minification for Astro 🚀 based on Rust 🦀",
+    "totalDownloads": "574",
+    "link": "https://github.com/advanced-astro/astro-min#readme",
+    "stars": 30,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-github-stats  ",
+    "desc": "Embed GitHub stats on your Astro page ✨",
+    "totalDownloads": "566",
+    "link": "https://ayco.io/showcase/astro-github-stats"
+  },
+  {
+    "packageName": " @jasikpark/astro-svg-loader  ",
+    "desc": "This package allows you to import SVGs as Astro components, using ultrahtml and Vite's support for raw imports to do the trick.",
+    "totalDownloads": "565",
+    "link": "https://github.com/jasikpark/astro-svg-loader#readme",
+    "stars": 23,
+    "forks": 5,
+    "issues": 11
+  },
+  {
+    "packageName": " @fulldevlabs/fullui  ",
+    "desc": "A component library built for Astro",
+    "totalDownloads": "560",
+    "link": "https://ui.full.dev/"
+  },
+  {
+    "packageName": " astro-diagram  ",
+    "desc": "Embed you Mermaid diagrams inside your Astro templates.\nFeatures server-side rendering and smart caching.",
+    "totalDownloads": "559",
+    "link": "https://code.juliancataldo.com/component/astro-diagram"
+  },
+  {
+    "packageName": " hello-astro  ",
+    "desc": "An Astro component that returns a random greeting in a random language",
+    "totalDownloads": "545",
+    "link": "https://hello-astro.vercel.app/"
+  },
+  {
+    "packageName": " @astro-utils/context  ",
+    "desc": "React like Context for astro.js",
+    "totalDownloads": "545",
+    "link": "https://withastro-utils.github.io/docs/"
+  },
+  {
+    "packageName": " astro-pages  ",
+    "desc": "Add custom file based routing directories in Astro",
+    "totalDownloads": "524",
+    "link": "https://github.com/brycerussell/astro-pages",
+    "stars": 12,
+    "forks": 1,
+    "issues": 3
+  },
+  {
+    "packageName": " @philnash/astro-pagination  ",
+    "desc": "A flexible, accessible pagination component for displaying links to next, previous, first, last and a window of pages in your Astro site.",
+    "totalDownloads": "521",
+    "link": "https://github.com/philnash/astro-components/tree/main/packages/astro-pagination ",
+    "stars": 20,
+    "forks": 0,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-lighthouse  ",
+    "desc": "Lighthouse Pagespeed insights within the Astro dev toolbar",
+    "totalDownloads": "520",
+    "link": "https://github.com/buk0vec/astro-lighthouse",
+    "stars": 12,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-seo-metadata  ",
+    "desc": "Bare minimum SEO meta tags to make most social networks and Google engine happy.",
+    "totalDownloads": "519",
+    "link": "https://code.juliancataldo.com/component/astro-seo-metadata"
+  },
+  {
+    "packageName": " @kcws/astro-decap-cms  ",
+    "desc": "add decap cms to astro repository",
+    "totalDownloads": "505",
+    "link": "https://github.com/kc-workspace/kcws-js/tree/main/packages/astro-decap-cms",
+    "stars": 1,
+    "forks": 0,
+    "issues": 5
+  },
+  {
+    "packageName": " astro-tooltips  ",
+    "desc": "Progressively enhanced. This component globally override regular `title` attributes on all links with Tippy.js tooltips.",
+    "totalDownloads": "503",
+    "link": "https://code.juliancataldo.com/component/astro-tooltips"
+  },
+  {
+    "packageName": " astro-tabs  ",
+    "desc": "A tabs bar + panels component which works entirely without JS.\nSupports height equalization and automatic vertical scroll bar for tabs bar.",
+    "totalDownloads": "503",
+    "link": "https://code.juliancataldo.com/component/astro-tabs"
+  },
+  {
+    "packageName": " astro-redirect-from  ",
+    "desc": "🎯 Set redirect urls in your frontmatter within your Astro site's Markdown files. Mimics the behavior of jekyll-redirect-from.",
+    "totalDownloads": "502",
+    "link": "https://kremalicious.com/astro-redirect-from"
+  },
+  {
+    "packageName": " astro-uploader  ",
+    "desc": "A uploader for uploading the Astro generated files through the S3 API.",
+    "totalDownloads": "491",
+    "link": "https://github.com/syhily/astro-uploader#readme",
+    "stars": 7,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @sitebender/components  ",
+    "desc": "![stability-beta](https://img.shields.io/badge/stability-beta-33bbff.svg)",
+    "totalDownloads": "463",
+    "link": "https://github.com/site-bender/components#readme",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-global  ",
+    "desc": "Access the Astro global from MDX, React, and other framework components.",
+    "totalDownloads": "456",
+    "link": "https://github.com/lilnasy/gratelets/tree/main/packages/global",
+    "stars": 95,
+    "forks": 6,
+    "issues": 3
+  },
+  {
+    "packageName": " @matthiesenxyz/astro-ghostcms  ",
+    "desc": "Astro GhostCMS integration to allow easier importing of GhostCMS Content",
+    "totalDownloads": "456",
+    "link": "https://astro-ghostcms.xyz/"
+  },
+  {
+    "packageName": " @wticons/astro  ",
+    "desc": "Bundle of website development and technology icons",
+    "totalDownloads": "454",
+    "link": "https://github.com/OzzyCzech/wticons#readme",
+    "stars": 2,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-devtool-breakpoints  ",
+    "desc": "A Dev Toolbar App to display the size of the current viewport—as a tailwind class.",
+    "totalDownloads": "452",
+    "link": "https://www.npmjs.com/package/astro-devtool-breakpoints?activeTab=readme"
+  },
+  {
+    "packageName": " astro-rename  ",
+    "desc": "astro-rename is an Astro integration that brings postcss-rename functionality to your Astro project without the need for configuration.",
+    "totalDownloads": "449",
+    "link": "https://github.com/RodrigoTomeES/astro-rename",
+    "stars": 15,
+    "forks": 4,
+    "issues": 4
+  },
+  {
+    "packageName": " astro-stylex  ",
+    "desc": "This **Astro integration][astro-integration]** brings [StyleX's](https://stylexjs.com/docs/learn/) CSS compiler to every `.astro` file and [framework component in your project.",
+    "totalDownloads": "435",
+    "link": "https://github.com/lilnasy/gratelets/tree/main/packages/stylex",
+    "stars": 95,
+    "forks": 6,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-custom-toc  ",
+    "desc": "Astro Integration to generate a customizable table of contents",
+    "totalDownloads": "435",
+    "link": "https://github.com/Robot-Inventor/astro-custom-toc#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 7
+  },
+  {
+    "packageName": " astro-useragent  ",
+    "desc": "Parses browser user-agent strings for Astro",
+    "totalDownloads": "427",
+    "link": "https://github.com/codiume/orbit",
+    "stars": 294,
+    "forks": 12,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-dev-only-routes  ",
+    "desc": "Make some routes only available in dev mode.",
+    "totalDownloads": "412",
+    "link": "https://github.com/MoustaphaDev/astro-dev-only-routes/tree/main/packages/integration/readme.md",
+    "stars": 6,
+    "forks": 2,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-color-scheme  ",
+    "desc": "A fully headless dark mode theme toggle for Astro. it has built in support for both Dark & light mode along with the default System Auto mode.",
+    "totalDownloads": "407",
+    "link": "https://github.com/surjithctly/astro-color-scheme#readme",
+    "stars": 44,
+    "forks": 5,
+    "issues": 1
+  },
+  {
+    "packageName": " @astro-aws/adapter  ",
+    "desc": "An adapter for deploying an Astro application to AWS Lambda",
+    "totalDownloads": "397",
+    "link": "https://astro-aws.org/"
+  },
+  {
+    "packageName": " astro-lazy-youtube-embed  ",
+    "desc": "Embed YouTube videos with a static placeholder which only embeds when you click",
+    "totalDownloads": "392",
+    "link": "https://github.com/insin/astro-lazy-youtube-embed#readme",
+    "stars": 21,
+    "forks": 1,
+    "issues": 2
+  },
+  {
+    "packageName": " @barnabask/astro-minisearch  ",
+    "desc": "Utilities to add a static full text index to an Astro project",
+    "totalDownloads": "391",
+    "link": "https://github.com/Barnabas/astro-minisearch/",
+    "stars": 21,
+    "forks": 1,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-netlify-cms  ",
+    "desc": "Add Netlify CMS’s admin dashboard to your Astro project",
+    "totalDownloads": "389",
+    "link": "https://github.com/delucis/astro-netlify-cms",
+    "stars": 158,
+    "forks": 22,
+    "issues": 19
+  },
+  {
+    "packageName": " @astrolicious/i18n  ",
+    "desc": "Yet another i18n integration for Astro with server and client utilities, type safety and translations built-in.",
+    "totalDownloads": "383",
+    "link": "https://github.com/astrolicious/i18n",
+    "stars": 38,
+    "forks": 2,
+    "issues": 7
+  },
+  {
+    "packageName": " astro-decap-cms-oauth  ",
+    "desc": "Add Decap CMS’s admin dashboard and a custom OAuth backend to your Astro project",
+    "totalDownloads": "378",
+    "link": "https://github.com/dorukgezici/astro-decap-cms-oauth",
+    "stars": 36,
+    "forks": 2,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-helmet  ",
+    "desc": "A document head manager for astro.",
+    "totalDownloads": "372",
+    "link": "https://github.com/ryan-voitiskis/astro-helmet#readme",
+    "stars": 6,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " simple-stack-stream  ",
+    "desc": "Suspend your Astro components with fallback content.",
+    "totalDownloads": "330",
+    "link": "https://github.com/bholmesdev/simple-stack#readme",
+    "stars": 230,
+    "forks": 7,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-fathom  ",
+    "desc": "Fathom Analytics tracking for your Astro site.",
+    "totalDownloads": "329",
+    "link": "https://github.com/tony-sull/astro-fathom#readme",
+    "stars": 6,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-html-beautifier  ",
+    "desc": "Beautify html files on astro final bundle with js-beautify",
+    "totalDownloads": "328",
+    "link": "https://github.com/bangkitdev/astro-html-beautifier#readme",
+    "stars": 5,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-vercel-edge  ",
+    "desc": "Deploy your Astro site to Vercel Edge Functions",
+    "totalDownloads": "323",
+    "link": "https://github.com/mayank99/astro-vercel-edge#readme",
+    "stars": 9,
+    "forks": 3,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-server-only-modules  ",
+    "desc": "Make sure you never leak security-sensitive code to the browser.",
+    "totalDownloads": "310",
+    "link": "https://github.com/lilnasy/gratelets/tree/main/packages/server-only-modules",
+    "stars": 95,
+    "forks": 6,
+    "issues": 3
+  },
+  {
+    "packageName": " @aeonkit/astro  ",
+    "desc": "A collection of useful Astro components from Aeonkit",
+    "totalDownloads": "309",
+    "link": "https://www.npmjs.com/package/@aeonkit/astro"
+  },
+  {
+    "packageName": " @xexiu/astro-tabs  ",
+    "desc": "A pure css and html tabs component for Astro",
+    "totalDownloads": "306",
+    "link": "https://github.com/xexiu/astro-components",
+    "stars": 11,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " starlight-package-managers  ",
+    "desc": "Quickly display npm related commands for multiple package managers in your Starlight documentation site.",
+    "totalDownloads": "305",
+    "link": "https://github.com/HiDeoo/starlight-package-managers",
+    "stars": 10,
+    "forks": 2,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-bun-adapter  ",
+    "desc": "> Allows Astro to run your SSR site with the Bun's native API `Bun.serve`.",
+    "totalDownloads": "293",
+    "link": "https://github.com/ido-pluto/astro-bun-adapter.git#readme"
+  },
+  {
+    "packageName": " astro-public  ",
+    "desc": "Add custom 'public' directories in Astro",
+    "totalDownloads": "281",
+    "link": "https://github.com/brycerussell/astro-public",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-toolkit  ",
+    "desc": "A collection of Astro tools, components, and utilities to streamline your development process.",
+    "totalDownloads": "277",
+    "link": "https://github.com/spices-solutions/wathqny/blob/main/packages/astro-toolkit/README.md",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-mdx-code-blocks  ",
+    "desc": "An easy way to customize the syntax highlighting of MDX fenced code blocks by providing your own Astro component.",
+    "totalDownloads": "275",
+    "link": "https://github.com/johnzanussi/astro-mdx-code-blocks#readme",
+    "stars": 13,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @galactiks/astro-integration  ",
+    "desc": "Galactiks Astro integration",
+    "totalDownloads": "275",
+    "link": "https://www.galactiks.com"
+  },
+  {
+    "packageName": " astro-carousel  ",
+    "desc": "An accessible carousel component for Astro 🚀 that works by using browser navigation.",
+    "totalDownloads": "270",
+    "link": "https://www.npmjs.com/package/astro-carousel"
+  },
+  {
+    "packageName": " astro-devtoolbar-tailwind  ",
+    "desc": "An Astro Dev Toolbar Plugin which let's you edit Tailwind classes in the browser!",
+    "totalDownloads": "255",
+    "link": "https://github.com/futurethemes/astro-devtoolbar-tailwind",
+    "stars": 11,
+    "forks": 0,
+    "issues": 5
+  },
+  {
+    "packageName": " @grucloud/bau-astro  ",
+    "desc": "Use Bau within Astro",
+    "totalDownloads": "255",
+    "link": "https://github.com/grucloud/bau/bau-astro",
+    "stars": 80,
+    "forks": 3,
+    "issues": 4
+  },
+  {
+    "packageName": " astro-sanity-picture  ",
+    "desc": "An Astro component for rendering a responsive <picture> element for an image fetched from Sanity",
+    "totalDownloads": "249",
+    "link": "https://github.com/otterdev-io/astro-sanity-picture#readme",
+    "stars": 18,
+    "forks": 2,
+    "issues": 4
+  },
+  {
+    "packageName": " astro-als  ",
+    "desc": "Avoid hydration mismatches by getting the data on both server and client using an AsyncLocalStorage in Astro.",
+    "totalDownloads": "244",
+    "link": "https://github.com/florian-lefebvre/astro-als",
+    "stars": 7,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " freestyle-deno-astro-adapter  ",
+    "desc": "Deploy your Astro site to a Deno server",
+    "totalDownloads": "243",
+    "link": "https://github.com/denoland/deno-astro-adapter/",
+    "stars": 61,
+    "forks": 16,
+    "issues": 4
+  },
+  {
+    "packageName": " astro-emoji  ",
+    "desc": "An accessible emoji component for Astro applications",
+    "totalDownloads": "241",
+    "link": "https://github.com/seanmcp/astro-emoji#readme",
+    "stars": 17,
+    "forks": 2,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-critical-css  ",
+    "desc": "Critical css integration for astro to inline above-the-fold css into HTML",
+    "totalDownloads": "241",
+    "link": "https://github.com/rumaan/astro-critical-css#readme",
+    "stars": 11,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @appzic/astro-reset-css  ",
+    "desc": "Astro Component for CSS reset like tailwind base",
+    "totalDownloads": "237",
+    "link": "https://github.com/appzic/astro-reset-css#readme",
+    "stars": 7,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @inox-tools/content-utils  ",
+    "desc": "Utilities to work with content collections on an Astro project from an integration or library.",
+    "totalDownloads": "234",
+    "link": "https://www.npmjs.com/package/@inox-tools/content-utils"
+  },
+  {
+    "packageName": " astro-auto-adapter  ",
+    "desc": "Let's you choose between Astro Adapters based off of the `ASTRO_ADAPTER_MODE` environment variable.",
+    "totalDownloads": "229",
+    "link": "https://github.com/okikio/astro-auto-adapter",
+    "stars": 11,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-svg-sprite  ",
+    "desc": "A zero-dependency Astro Integration that generates a `sprite.svg` from SVG files in your Astro project.",
+    "totalDownloads": "224",
+    "link": "https://github.com/ACP-CODE/astro-svg-sprite#readme",
+    "stars": 6,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-simpleanalytics-plugin  ",
+    "desc": "Use the Astro Simple Analytics Plugin to quickly integrate Simple Analytics in your Astro project with parameter control over several features.",
+    "totalDownloads": "222",
+    "link": "https://simpleanalytics.com/"
+  },
+  {
+    "packageName": " @jop-software/astro-matomo  ",
+    "desc": "Matomo integration for Astro",
+    "totalDownloads": "217",
+    "link": "https://github.com/jop-software/astro-matomo#readme",
+    "stars": 9,
+    "forks": 0,
+    "issues": 4
+  },
+  {
+    "packageName": " @rubenarakelyan/rehype-custom-emoji  ",
+    "desc": "Declare and use custom emoji",
+    "totalDownloads": "215",
+    "link": "https://github.com/rubenarakelyan/rehype-custom-emoji#readme",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " custom-elements-ssr  ",
+    "desc": "Custom elements renderer for ssr",
+    "totalDownloads": "207",
+    "link": "https://github.com/thepassle/custom-elements-ssr#readme",
+    "stars": 44,
+    "forks": 4,
+    "issues": 3
+  },
+  {
+    "packageName": " @halfgray/grayspace  ",
+    "desc": "Minimal theme integration for Astro",
+    "totalDownloads": "206",
+    "link": "https://github.com/jack126guy/grayspace#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @julian_cataldo/astro-lightbox  ",
+    "desc": "Simple lightbox component.",
+    "totalDownloads": "204",
+    "link": "https://code.juliancataldo.com/component/astro-lightbox"
+  },
+  {
+    "packageName": " @inox-tools/custom-routing  ",
+    "desc": "Define custom routing instead of Astro's default file-based routing.",
+    "totalDownloads": "195",
+    "link": "https://github.com/Fryuni/inox-tools#readme",
+    "stars": 28,
+    "forks": 1,
+    "issues": 17
+  },
+  {
+    "packageName": " @zeabur/astro-adapter  ",
+    "desc": "Deploy your site to Zeabur",
+    "totalDownloads": "184",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/zeabur/"
+  },
+  {
+    "packageName": " @xexiu/astro-modal  ",
+    "desc": "A pure css and html modal component for Astro",
+    "totalDownloads": "177",
+    "link": "https://github.com/xexiu/astro-components",
+    "stars": 11,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @voxgig/podw-astro  ",
+    "desc": "Astro wrapper to use the Podmind widget",
+    "totalDownloads": "175",
+    "link": "https://www.npmjs.com/package/@voxgig/podw-astro"
+  },
+  {
+    "packageName": " @matthiesenxyz/astro-gists  ",
+    "desc": "Allows the user to import GitHub Gists by ID through an Astro Component and Octokit",
+    "totalDownloads": "175",
+    "link": "https://github.com/MatthiesenXYZ/astro-gists",
+    "stars": 2,
+    "forks": 0,
+    "issues": 13
+  },
+  {
+    "packageName": " @narration-sd/sanity-astro  ",
+    "desc": "Very temporary and Unofficial Sanity Astro integration",
+    "totalDownloads": "171",
+    "link": "https://github.com/narration-sd/astro-san#readme"
+  },
+  {
+    "packageName": " @digi4care/astro-google-tagmanager  ",
+    "desc": "A seamless integration for injecting Google Tag Manager snippets into Astro projects, supporting popular web analytics tools.",
+    "totalDownloads": "171",
+    "link": "https://github.com/digi4care/astro-google-tagmanager",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @common-web/astro-lambda-edge  ",
+    "desc": "This Adapter allows Astro to deploy your SSR site to Lambda@Edge Lambda target.",
+    "totalDownloads": "169",
+    "link": "https://www.npmjs.com/package/@common-web/astro-lambda-edge"
+  },
+  {
+    "packageName": " astro-windi  ",
+    "desc": "Windi CSS + Astro Integrations",
+    "totalDownloads": "167",
+    "link": "https://github.com/pep108/astro-windi/",
+    "stars": 5,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-lenis  ",
+    "desc": "A simple drop in lenis integration for Astro. Get smooth or die trying.",
+    "totalDownloads": "165",
+    "link": "https://www.npmjs.com/package/astro-lenis"
+  },
+  {
+    "packageName": " astro-mastodon  ",
+    "desc": "🐘🚀 Mastodon embeds and mentions for Astro websites",
+    "totalDownloads": "164",
+    "link": "https://github.com/rosnovsky/astro-mastodon#readme",
+    "stars": 11,
+    "forks": 0,
+    "issues": 14
+  },
+  {
+    "packageName": " og-images-generator  ",
+    "desc": "Generate OG images from a static folder and / or a middleware.\nExtract metadata from HTML pages. No headless browser involved.\nComes as a CLI, API or plugins.",
+    "totalDownloads": "163",
+    "link": "https://github.com/JulianCataldo/og-images-generator#readme",
+    "stars": 23,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-toc  ",
+    "desc": "Table of Contents (ToC) generator for Astro. Use custom components for interactivity.",
+    "totalDownloads": "162",
+    "link": "https://github.com/theisel/astro-toc#readme",
+    "stars": 22,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-preload  ",
+    "desc": "Download images at build time! Supports Iconify icons and arbitrary images.",
+    "totalDownloads": "161",
+    "link": "https://github.com/lyonsyonii/astro-preload#readme",
+    "stars": 28,
+    "forks": 2,
+    "issues": 10
+  },
+  {
+    "packageName": " @zokki/astro-purgecss  ",
+    "desc": "purgecss for astro static sites",
+    "totalDownloads": "160",
+    "link": "https://gitea.zokki.net/zokki/astro-purgecss"
+  },
+  {
+    "packageName": " astro-theme-provider  ",
+    "desc": "Easily create theme integrations for Astro",
+    "totalDownloads": "159",
+    "link": "https://astro-theme-provider.netlify.app/"
+  },
+  {
+    "packageName": " agnostic-astro  ",
+    "desc": "AgnosticUI (Astro)",
+    "totalDownloads": "156",
+    "link": "https://github.com/AgnosticUI/agnosticui#readme",
+    "stars": 714,
+    "forks": 47,
+    "issues": 43
+  },
+  {
+    "packageName": " @namchee/astro-subfont  ",
+    "desc": "Generate optimal font subsets for your Astro-powered websites",
+    "totalDownloads": "153",
+    "link": "https://github.com/Namchee/fontsubs#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @jam-comments/astro  ",
+    "desc": "Easily add performant, SEO-friendly comments to your Astro blog with JamComments.",
+    "totalDownloads": "153",
+    "link": "https://jamcomments.com"
+  },
+  {
+    "packageName": " astro-tailwind-config-viewer  ",
+    "desc": "Explore your Tailwind config visually directly in your browser while developing.",
+    "totalDownloads": "140",
+    "link": "https://github.com/florian-lefebvre/astro-tailwind-config-viewer",
+    "stars": 9,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-pintora  ",
+    "desc": "An Astro component for Pintora diagrams",
+    "totalDownloads": "137",
+    "link": "https://github.com/tex0l/astro-pintora",
+    "stars": 1,
+    "forks": 1,
+    "issues": 3
+  },
+  {
+    "packageName": " @astro-utils/express-endpoints  ",
+    "desc": "Express-like framework for Astro Endpoints",
+    "totalDownloads": "136",
+    "link": "https://withastro-utils.github.io/docs/"
+  },
+  {
+    "packageName": " @astrojs-aws/adapter  ",
+    "desc": "The Astro adapter of AWS Serverless",
+    "totalDownloads": "135",
+    "link": "https://github.com/helbing/astrojs-aws/tree/main/packages/adapter",
+    "stars": 4,
+    "forks": 1,
+    "issues": 13
+  },
+  {
+    "packageName": " astro-kinde  ",
+    "desc": "Astro integration module for Kinde authentication",
+    "totalDownloads": "128",
+    "link": "https://github.com/JacobWeinbren/astro-kinde/tree/main#readme",
+    "stars": 8,
+    "forks": 2,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-scroll-observer  ",
+    "desc": "Viewport scroll position and direction watcher.\nBinds states data attributes to `HTML` for further JS/CSS usage.\nScroll event is throttled for performance economy.",
+    "totalDownloads": "125",
+    "link": "https://code.juliancataldo.com/component/astro-scroll-observer"
+  },
+  {
+    "packageName": " @forastro/utilities  ",
+    "desc": "This package is a set of components and functions that make things easier to accomplish with Astro.\n It's a library that has functions that are useful for conditional rendering and iteration.\n It has a link component which is useful",
+    "totalDownloads": "124",
+    "link": "https://forastro-docs.onrender.com/libraries/utilities"
+  },
+  {
+    "packageName": " astro-middleware-cn  ",
+    "desc": "Astro middleware for chinese md page.",
+    "totalDownloads": "122",
+    "link": "https://github.com/liruifengv/astro-middleware-cn#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @littlesticks/odyssey-theme-components  ",
+    "desc": "Components for the Astro Odyssey theme",
+    "totalDownloads": "119",
+    "link": "https://github.com/littlesticksdev/odyssey-theme#readme",
+    "stars": 496,
+    "forks": 144,
+    "issues": 6
+  },
+  {
+    "packageName": " astro-svg-loaders  ",
+    "desc": "Astro loading icons and small animations built with pure SVG.",
+    "totalDownloads": "111",
+    "link": "https://github.com/codiume/orbit",
+    "stars": 294,
+    "forks": 12,
+    "issues": 1
+  },
+  {
+    "packageName": " @itsmatteomanf/astro-security-txt  ",
+    "desc": "Generate a security.txt file for your Astro site",
+    "totalDownloads": "111",
+    "link": "https://github.com/itsmatteomanf/astro-components/tree/main/packages/astro-security-txt#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 11
+  },
+  {
+    "packageName": " pkg1_accordion  ",
+    "desc": "Has a print message and accordion component",
+    "totalDownloads": "103",
+    "link": "https://www.npmjs.com/package/pkg1_accordion"
+  },
+  {
+    "packageName": " astro-svg-icon  ",
+    "desc": "Astro component for SVG icons",
+    "totalDownloads": "101",
+    "link": "https://karolytorok.netlify.app/blog/styling-an-svg/"
+  },
+  {
+    "packageName": " satori-astro  ",
+    "desc": "Astro integration and utilities to help you generate OpenGraph images using satori.",
+    "totalDownloads": "99",
+    "link": "https://github.com/florian-lefebvre/satori-astro",
+    "stars": 10,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " @futurethemes/galaxy  ",
+    "desc": "Galaxy Theme from FutureThemes",
+    "totalDownloads": "99",
+    "link": "https://galaxy.futurethemes.io"
+  },
+  {
+    "packageName": " hono-astro-adapter  ",
+    "desc": "This is a simple adapter that allows you to use a Middleware to handle the SSR of your Astro project.",
+    "totalDownloads": "98",
+    "link": "https://www.npmjs.com/package/hono-astro-adapter"
+  },
+  {
+    "packageName": " astro-link-preview  ",
+    "desc": "This Astro integration generates preview images for external links.",
+    "totalDownloads": "98",
+    "link": "https://github.com/cijiugechu/astro-link-preview",
+    "stars": 30,
+    "forks": 3,
+    "issues": 11
+  },
+  {
+    "packageName": " astro-php  ",
+    "desc": null,
+    "totalDownloads": "96",
+    "link": "https://www.npmjs.com/package/astro-php"
+  },
+  {
+    "packageName": " astro-blog  ",
+    "desc": "Add a blog to your Astro site in just one line",
+    "totalDownloads": "95",
+    "link": "https://astro-blog.futurethemes.io/"
+  },
+  {
+    "packageName": " @qwikdev/create-astro  ",
+    "desc": "Interactive CLI for create @QwikDev/astro projects.",
+    "totalDownloads": "95",
+    "link": "https://github.com/QwikDev/astro#readme",
+    "stars": 192,
+    "forks": 13,
+    "issues": 10
+  },
+  {
+    "packageName": " astro-sw  ",
+    "desc": "Astro Service Worker for plain (vanilla) Javascript files.",
+    "totalDownloads": "91",
+    "link": "https://github.com/pedra/astro-sw#readme",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-electron  ",
+    "desc": "Build cross-platform desktop apps with Electron and Astro",
+    "totalDownloads": "91",
+    "link": "https://github.com/Igloczek/astro-electron",
+    "stars": 11,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-fuse  ",
+    "desc": "Use Fuse.js to search documents in your Astro site",
+    "totalDownloads": "88",
+    "link": "https://github.com/johnny-mh/blog2/tree/main/packages/astro-fuse",
+    "stars": 5,
+    "forks": 0,
+    "issues": 4
+  },
+  {
+    "packageName": " astro-cloudinary-image  ",
+    "desc": "Adds a Cloudinary image component to Astro",
+    "totalDownloads": "88",
+    "link": "https://github.com/ericrisco/astro-cloudinary-image#readme",
+    "stars": 34,
+    "forks": 5,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-tina  ",
+    "desc": "Support contextual editing with TinaCMS in static Astro sites.",
+    "totalDownloads": "86",
+    "link": "https://www.npmjs.com/package/astro-tina"
+  },
+  {
+    "packageName": " astro-image-processor  ",
+    "desc": "Astro integartion for image optimization and art direction for static builds",
+    "totalDownloads": "86",
+    "link": "https://macropygia.github.io/astro-image-processor/"
+  },
+  {
+    "packageName": " @matthiesenxyz/astro-hashnode  ",
+    "desc": "An Integration to bring your Hashnode Headless Blog content into Astro!",
+    "totalDownloads": "83",
+    "link": "https://github.com/matthiesenxyz/astro-hashnode",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-lucide  ",
+    "desc": " Astro component to use Lucide icons ",
+    "totalDownloads": "82",
+    "link": "https://github.com/michelangelo-valderrama/astro-lucide#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-file-icon  ",
+    "desc": "Astro component that makes it easy to render themeable svg file icons.",
+    "totalDownloads": "82",
+    "link": "https://github.com/hsnfirdaus/astro-file-icon#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @xexiu/astro-seo  ",
+    "desc": "SEO builder with jsonLDGenerator for Astro",
+    "totalDownloads": "81",
+    "link": "https://github.com/xexiu/astro-components",
+    "stars": 11,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-storyblok-image-service  ",
+    "desc": "Integration of Storyblok image service into Astro image service API",
+    "totalDownloads": "80",
+    "link": "https://www.npmjs.com/package/astro-storyblok-image-service"
+  },
+  {
+    "packageName": " @gemini-ui-astro/components  ",
+    "desc": "Core components for the Gemini UI Astro integration.",
+    "totalDownloads": "80",
+    "link": "https://github.com/gemini-ui/gemini-ui-monorepo#readme",
+    "stars": 5,
+    "forks": 1,
+    "issues": 18
+  },
+  {
+    "packageName": " astro-font-picker  ",
+    "desc": "Try out different fonts on your website by putting a font picker in the Astro Dev Toolbar",
+    "totalDownloads": "79",
+    "link": "https://github.com/randombits-dev/astro-font-picker",
+    "stars": 21,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-vanilla-extract  ",
+    "desc": "Adds vanilla-extract support to Astro",
+    "totalDownloads": "78",
+    "link": "https://github.com/codiume/orbit",
+    "stars": 294,
+    "forks": 12,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-cloudflare-basic-auth  ",
+    "desc": "Astro integration that adds basic authentication to your cloudflare pages deployment.",
+    "totalDownloads": "77",
+    "link": "https://github.com/tylergannon/astro-integrations#readme",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @fusionauth/astro-components  ",
+    "desc": "Pull in values from remote JSON files or remote code blocks at build time.",
+    "totalDownloads": "76",
+    "link": "https://github.com/FusionAuth/fusionauth-astro-components#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @gemini-ui-astro/components-blog  ",
+    "desc": "Blog components for the Gemini UI Astro integration.",
+    "totalDownloads": "74",
+    "link": "https://github.com/gemini-ui/gemini-ui-monorepo#readme",
+    "stars": 5,
+    "forks": 1,
+    "issues": 18
+  },
+  {
+    "packageName": " @gemini-ui-astro/styles  ",
+    "desc": "Styling & theming utilities for the Gemini UI Astro integration.",
+    "totalDownloads": "73",
+    "link": "https://github.com/gemini-ui/gemini-ui-monorepo#readme",
+    "stars": 5,
+    "forks": 1,
+    "issues": 18
+  },
+  {
+    "packageName": " @gemini-ui-astro/core  ",
+    "desc": "Core utilities for the Gemini UI Astro integration.",
+    "totalDownloads": "73",
+    "link": "https://github.com/gemini-ui/gemini-ui-monorepo#readme",
+    "stars": 5,
+    "forks": 1,
+    "issues": 18
+  },
+  {
+    "packageName": " vite-plugin-standard-css-modules  ",
+    "desc": "Provide a CSSStyleSheet or a CSSResult (Lit) for using with import attributes.\nUsing the \"with\" keyword and \"type : css\".",
+    "totalDownloads": "72",
+    "link": "https://github.com/JulianCataldo/vite-plugin-standard-css-modules#readme",
+    "stars": 9,
+    "forks": 0,
+    "issues": 2
+  },
+  {
+    "packageName": " @xexiu/astro-speech  ",
+    "desc": "HTML, CSS and a bit of javascript made with Custom Elements astro-speech for Astro.",
+    "totalDownloads": "71",
+    "link": "https://github.com/xexiu/astro-components",
+    "stars": 11,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @xexiu/astro-progress-bar  ",
+    "desc": "HTML, CSS and a bit of javascript made with Custom Elements progress bar for Astro.",
+    "totalDownloads": "71",
+    "link": "https://github.com/xexiu/astro-components",
+    "stars": 11,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-toast  ",
+    "desc": "**astro-toast** is a simple library for displaying toasts on your website.",
+    "totalDownloads": "70",
+    "link": "https://github.com/julian428/astro-toast",
+    "stars": 5,
+    "forks": 4,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-geo-map  ",
+    "desc": "Embed an interactive map in your webpage.\nUsing Leaflet.js under the hood.",
+    "totalDownloads": "67",
+    "link": "https://code.juliancataldo.com/component/astro-geo-map"
+  },
+  {
+    "packageName": " astro-cooklang  ",
+    "desc": "Use Cooklang recipes within Astro",
+    "totalDownloads": "67",
+    "link": "https://astro-cooklang.kauh.at/"
+  },
+  {
+    "packageName": " @astropub/context  ",
+    "desc": "Create and share context across Astro components",
+    "totalDownloads": "67",
+    "link": "https://github.com/astro-community/context",
+    "stars": 19,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-plyr  ",
+    "desc": "Plyr component for Astro",
+    "totalDownloads": "66",
+    "link": "https://github.com/Liumingxun/astro-plyr#readme",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-sveltia-cms  ",
+    "desc": "Add Sveltia CMS admin dashboard and a custom OAuth backend to your Astro project",
+    "totalDownloads": "65",
+    "link": "https://github.com/majesticostudio/astro-sveltia-cms",
+    "stars": 11,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " @jman.dev/auth-astro  ",
+    "desc": "The easiest way to add authentication to your Astro project!",
+    "totalDownloads": "65",
+    "link": "https://github.com/nowaythatworked/auth-astro#readme",
+    "stars": 257,
+    "forks": 38,
+    "issues": 22
+  },
+  {
+    "packageName": " @kotosha/astro-gist  ",
+    "desc": "Dead simple gist rendering buddy for your Astro blog",
+    "totalDownloads": "64",
+    "link": "https://github.com/kotosha-real/astro-gist#readme",
+    "stars": 7,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-cached-icon  ",
+    "desc": "Astro component for cached icons",
+    "totalDownloads": "63",
+    "link": "https://www.npmjs.com/package/astro-cached-icon"
+  },
+  {
+    "packageName": " @daks.dev/astro.sdk  ",
+    "desc": "DAKS.DEV Astro software development kit",
+    "totalDownloads": "63",
+    "link": "https://daks.dev/"
+  },
+  {
+    "packageName": " @picperf/astro  ",
+    "desc": "An Astro component for optimizing, reformatting, and caching images with PicPerf.io.",
+    "totalDownloads": "62",
+    "link": "https://picperf.io"
+  },
+  {
+    "packageName": " @adammatthiesen/astro-snipcart  ",
+    "desc": "Astro SnipCart Integration based on another npm package by lloyedjatkinson that has been updated for astro v4",
+    "totalDownloads": "62",
+    "link": "https://github.com/Adammatthiesen/astro-snipcart",
+    "stars": 7,
+    "forks": 0,
+    "issues": 3
+  },
+  {
+    "packageName": " @caisy/rich-text-astro-renderer  ",
+    "desc": "This is a template for an Astro component library. Use this template for writing components to use in multiple projects or publish to NPM.",
+    "totalDownloads": "60",
+    "link": "https://www.npmjs.com/package/@caisy/rich-text-astro-renderer"
+  },
+  {
+    "packageName": " @ayco/astro-resume  ",
+    "desc": "This facilitates the creation and usage of global, immutable data for Astro apps.",
+    "totalDownloads": "60",
+    "link": "https://sr.ht/~ayoayco/astro-resume"
+  },
+  {
+    "packageName": " astro-hover-prefetch  ",
+    "desc": "This component capture mouse hovering on links with internal URLs. Then, it will prefetch the HTML document beforehand.",
+    "totalDownloads": "59",
+    "link": "https://code.juliancataldo.com/component/astro-hover-prefetch"
+  },
+  {
+    "packageName": " @itsmatteomanf/astro-pagefind  ",
+    "desc": "Performs the indexing operation for the Pagefind search engine",
+    "totalDownloads": "59",
+    "link": "https://github.com/itsmatteomanf/astro-components/tree/main/packages/astro-pagefind#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 11
+  },
+  {
+    "packageName": " astro-spotify  ",
+    "desc": "Components interacting with the Spotify API.",
+    "totalDownloads": "58",
+    "link": "https://github.com/Pramuspl/astro-spotify#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @astro-github-elements/clipboard-copy  ",
+    "desc": "An Astro wrapper for the '@github/clipboard-copy' web component, an easy to use copy to clipboard button",
+    "totalDownloads": "58",
+    "link": "https://github.com/BryceRussell/astro-github-elements/tree/main/packages/clipboard-copy#readme",
+    "stars": 3,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @xexiu/astro-accordion  ",
+    "desc": "Astro Accordion - HTML, CSS and a bit of javascript made with Custom Elements accordion for Astro.",
+    "totalDownloads": "57",
+    "link": "https://github.com/xexiu/astro-components",
+    "stars": 11,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @lloydjatkinson/astro-snipcart  ",
+    "desc": "This is an unofficial template meant to ease the development of components for Astro that are intended for distribution.",
+    "totalDownloads": "57",
+    "link": "https://www.npmjs.com/package/@lloydjatkinson/astro-snipcart"
+  },
+  {
+    "packageName": " responsive-image-astro  ",
+    "desc": "> **Experimental package - Please refer to source code if you don't feel comfortable using it.**",
+    "totalDownloads": "56",
+    "link": "https://github.com/MrAmericanMike/responsive-image-astro#readme",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " pkg2_accordion_printhey  ",
+    "desc": "This is a template for an Astro component library. Use this template for writing components to use in multiple projects or publish to NPM.",
+    "totalDownloads": "56",
+    "link": "https://www.npmjs.com/package/pkg2_accordion_printhey"
+  },
+  {
+    "packageName": " @igor.dvlpr/astro-post-excerpt  ",
+    "desc": "⭐ An Astro component that renders post excerpts for your Astro blog - directly from your Markdown files. Astro v2 collections are supported as well! 💎",
+    "totalDownloads": "56",
+    "link": "https://github.com/igorskyflyer/npm-astro-post-excerpt#readme",
+    "stars": 18,
+    "forks": 2,
+    "issues": 1
+  },
+  {
+    "packageName": " @cosmicui/components  ",
+    "desc": "This is a template for an Astro component library. Use this template for writing components to use in multiple projects or publish to NPM.",
+    "totalDownloads": "56",
+    "link": "https://github.com/juanpa77/CosmicUI#readme"
+  },
+  {
+    "packageName": " @itsmatteomanf/astro-robots-txt  ",
+    "desc": "Generate a robots.txt file for your Astro site",
+    "totalDownloads": "55",
+    "link": "https://github.com/itsmatteomanf/astro-components/tree/main/packages/astro-robots-txt#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 11
+  },
+  {
+    "packageName": " @digi4care/astro-google-analytics  ",
+    "desc": "A seamless integration for injecting Google Analytics snippets into Astro projects, supporting popular web analytics tools.",
+    "totalDownloads": "54",
+    "link": "https://github.com/digi4care/astro-google-analytics",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @astropub/config-to-alias  ",
+    "desc": "Add aliasing support to Astro, JavaScript, TypeScript, and CSS files from tsconfig.json or jsconfig.json",
+    "totalDownloads": "54",
+    "link": "https://github.com/astro-community/config-to-alias/#readme"
+  },
+  {
+    "packageName": " astro-barchart  ",
+    "desc": "Astro component to render a barchart",
+    "totalDownloads": "53",
+    "link": "https://github.com/Its-Just-Nans/astro-barchart",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @salvaft/astro-cv  ",
+    "desc": "Design system for CV and letter generation in Astro",
+    "totalDownloads": "53",
+    "link": "https://github.com/salvaft/astro-sft#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-remark-eleventy-image  ",
+    "desc": "Remark plugin for Astro that automatically optimizes images referenced in markdown files.",
+    "totalDownloads": "52",
+    "link": "https://github.com/ChrisOh431/astro-remark-eleventy-image#readme",
+    "stars": 13,
+    "forks": 0,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-plain  ",
+    "desc": "Generic, batteries-included prototype for Astro pages",
+    "totalDownloads": "49",
+    "link": "https://github.com/johnhenry/lib/js/astro-plain/0.0.6#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-headless-ui  ",
+    "desc": "A collection of headless components and utilities for Astro. Pagination, Breadcrumb, Themes, Copy buttons, and more!",
+    "totalDownloads": "49",
+    "link": "https://github.com/BryceRussell/astro-headless-ui#readme",
+    "stars": 58,
+    "forks": 5,
+    "issues": 5
+  },
+  {
+    "packageName": " astro-wordpress  ",
+    "desc": "Astro adapter to generate wordpress themes and php codes.",
+    "totalDownloads": "48",
+    "link": "https://www.npmjs.com/package/astro-wordpress"
+  },
+  {
+    "packageName": " @betahero-org/astro-snipcart-theme  ",
+    "desc": "This is a work in progress creating a theme  for astro snipcart thats less opinionated.",
+    "totalDownloads": "48",
+    "link": "https://github.com/betahero-org/astro-snipcart-theme#readme",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @astropub/worker  ",
+    "desc": "Use Web Workers in Astro",
+    "totalDownloads": "48",
+    "link": "https://github.com/astro-community/worker",
+    "stars": 12,
+    "forks": 4,
+    "issues": 0
+  },
+  {
+    "packageName": " @astro-reactive/validator  ",
+    "desc": "Form validation library for Astro 🔥",
+    "totalDownloads": "48",
+    "link": "https://astro-reactive.js.org"
+  },
+  {
+    "packageName": " @otterstack/sanity-img-astro  ",
+    "desc": "An Astro component for rendering a responsive <img> element for an image fetched from Sanity",
+    "totalDownloads": "47",
+    "link": "https://github.com/otterdev-io/otterstack/tree/main/astro#readme"
+  },
+  {
+    "packageName": " astro-licenses-report  ",
+    "desc": "Give credits to the awesome JS open-source community with this component. It will generate a table with important informations about packages used by your project.",
+    "totalDownloads": "46",
+    "link": "https://code.juliancataldo.com/component/astro-licenses-report"
+  },
+  {
+    "packageName": " astro-command-palette  ",
+    "desc": "A minimal, fast and lightweight command palette for astro with no dependencies",
+    "totalDownloads": "45",
+    "link": "https://github.com/pauchiner/astro-command-palette#readme",
+    "stars": 7,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-typed-api  ",
+    "desc": "This **[Astro integration][astro-integration]** offers a way to create type-safe API routes with no set-up and minimal concepts to learn.",
+    "totalDownloads": "44",
+    "link": "https://github.com/lilnasy/gratelets/tree/main/packages/typed-api",
+    "stars": 95,
+    "forks": 6,
+    "issues": 3
+  },
+  {
+    "packageName": " @herob191/astro-google-fonts-optimizer  ",
+    "desc": "An Astro integration to optimize the Google Fonts loading performance",
+    "totalDownloads": "44",
+    "link": "https://github.com/Herob527/astro-google-fonts-optimizer",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " gd_ui_components  ",
+    "desc": "Component description",
+    "totalDownloads": "42",
+    "link": "https://github.com/owner/project#readme"
+  },
+  {
+    "packageName": " phosphor-astro  ",
+    "desc": "Phosphor icons as Astro components",
+    "totalDownloads": "41",
+    "link": "https://github.com/seanmcp/phosphor-astro#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-page-transition  ",
+    "desc": "This component relies on the good old browser router, still, it will give to your website an SPA feel, without all the JS overhead.",
+    "totalDownloads": "41",
+    "link": "https://code.juliancataldo.com/component/astro-transition"
+  },
+  {
+    "packageName": " astro-decap-cms  ",
+    "desc": "Add Decap CMS's admin dashboard to your Astro project",
+    "totalDownloads": "40",
+    "link": "https://github.com/advanced-astro/astro-decap-cms",
+    "stars": 5,
+    "forks": 1,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-index  ",
+    "desc": "Astro component to render a apache like index",
+    "totalDownloads": "39",
+    "link": "https://github.com/Its-Just-Nans/astro-index",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @itsmatteomanf/astro-early-hints  ",
+    "desc": "Generates Link tags for your Astro site",
+    "totalDownloads": "37",
+    "link": "https://github.com/itsmatteomanf/astro-components/tree/main/packages/astro-searly-hints#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 11
+  },
+  {
+    "packageName": " astro-infinity  ",
+    "desc": "An Image Component for Astro. Works With SSR.",
+    "totalDownloads": "36",
+    "link": "https://github.com/alteredorange/astro-infinity",
+    "stars": 6,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @zokki/astro-gzip  ",
+    "desc": "gzip astro static sites",
+    "totalDownloads": "36",
+    "link": "https://gitea.zokki.net/zokki/astro-gzip"
+  },
+  {
+    "packageName": " @antonyfaris/deno-astro-adapter  ",
+    "desc": "Deploy your Astro site to a Deno server",
+    "totalDownloads": "36",
+    "link": "https://github.com/antonyfaris/deno-astro-adapter/",
+    "stars": 2,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-theme  ",
+    "desc": "Theme utils for astro",
+    "totalDownloads": "34",
+    "link": "https://github.com/warpsio/astro-theme",
+    "stars": 6,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @geensnor/astro-componenten  ",
+    "desc": "Pair of beautiful Astro components in Geensnor style",
+    "totalDownloads": "34",
+    "link": "https://github.com/geensnor/astro-componenten#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-module-federation  ",
+    "desc": "Astro Integration of @originjs/module-federation package.",
+    "totalDownloads": "33",
+    "link": "https://github.com/bartektricks/astro-module-federation/blob/main/package/README.md",
+    "stars": 2,
+    "forks": 0,
+    "issues": 6
+  },
+  {
+    "packageName": " astro-fonts-next  ",
+    "desc": "Astro integration that works the same way as Next.js font optimization.",
+    "totalDownloads": "32",
+    "link": "https://github.com/dc7290/astro-fonts-next#readme",
+    "stars": 24,
+    "forks": 1,
+    "issues": 12
+  },
+  {
+    "packageName": " astro-beam  ",
+    "desc": "BeamAnalytics integration for Astro",
+    "totalDownloads": "32",
+    "link": "https://github.com/advanced-astro/astro-beam",
+    "stars": 0,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-integration-elm  ",
+    "desc": "Use Elm components within Astro",
+    "totalDownloads": "29",
+    "link": "https://www.npmjs.com/package/astro-integration-elm"
+  },
+  {
+    "packageName": " astro-color-mode  ",
+    "desc": "Provides system or user-defined color scheme preference, with a toggle mechanism. Settings are persisted, component is progressively enhanced and flash of unstyled content avoided. Also, it will provide an easier way to target theme with CSS / SCSS / JS.",
+    "totalDownloads": "29",
+    "link": "https://code.juliancataldo.com/component/astro-color-mode"
+  },
+  {
+    "packageName": " @gamesome/astro-font  ",
+    "desc": "Host fonts locally in your Astro project. Set up custom preloaded fonts and fallback fonts to reduce CLS. The Astro variant of https://www.npmjs.com/package/@next/font",
+    "totalDownloads": "29",
+    "link": "https://github.com/Gamesome-ab/astro-font#readme",
+    "stars": 8,
+    "forks": 0,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-nanointl  ",
+    "desc": "Tiny set of tools to implement internationalization for Astro",
+    "totalDownloads": "28",
+    "link": "https://github.com/e3stpavel/astro-nanointl#readme",
+    "stars": 6,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " @polar-sh/astro  ",
+    "desc": "The Polar Astro SDK is an Astro library designed for interacting with the Polar API.",
+    "totalDownloads": "28",
+    "link": "https://www.npmjs.com/package/@polar-sh/astro"
+  },
+  {
+    "packageName": " @astro-openapi/gui-swagger  ",
+    "desc": "See project documentation.",
+    "totalDownloads": "28",
+    "link": "https://www.npmjs.com/package/@astro-openapi/gui-swagger"
+  },
+  {
+    "packageName": " astro-content-devtools  ",
+    "desc": "Browse Astro Content Collections, schemas and entry files in your browser",
+    "totalDownloads": "27",
+    "link": "https://github.com/HiDeoo/astro-content-devtools",
+    "stars": 17,
+    "forks": 2,
+    "issues": 0
+  },
+  {
+    "packageName": " @thewebforge/astro-code-blocks  ",
+    "desc": "Beautiful code blocks for your astro site",
+    "totalDownloads": "27",
+    "link": "https://github.com/thewebforge/astro-code-blocks#readme",
+    "stars": 18,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " @stylify/astro  ",
+    "desc": "Stylify generates utility-first CSS dynamically based on what you write. Write HTML. Get CSS.",
+    "totalDownloads": "27",
+    "link": "https://stylifycss.com"
+  },
+  {
+    "packageName": " @julian_cataldo/astro-resets  ",
+    "desc": "Common CSS resets in a configurable Astro component. Only needed CSS is injected into critical path.",
+    "totalDownloads": "27",
+    "link": "https://code.juliancataldo.com/component/astro-resets"
+  },
+  {
+    "packageName": " astro-critters-slim  ",
+    "desc": "🦔 Minimal Critters integration for astro.js",
+    "totalDownloads": "26",
+    "link": "https://github.com/Suven/astro-critters#readme",
+    "stars": 4,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @urami/astro  ",
+    "desc": "Astro integration for automatic image optimization",
+    "totalDownloads": "26",
+    "link": "https://urami.dev/guide/astro"
+  },
+  {
+    "packageName": " astro-scope  ",
+    "desc": "Get the hash used by the Astro compiler to scope css rules.",
+    "totalDownloads": "25",
+    "link": "https://github.com/lilnasy/gratelets/tree/main/packages/scope",
+    "stars": 95,
+    "forks": 6,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-satori  ",
+    "desc": "This Astro integration brings satori to your Astro project.",
+    "totalDownloads": "25",
+    "link": "https://github.com/cijiugechu/astro-satori",
+    "stars": 11,
+    "forks": 3,
+    "issues": 11
+  },
+  {
+    "packageName": " @lloydjatkinson/astro-snipcart-design-system  ",
+    "desc": "This is an unofficial template meant to ease the development of components for Astro that are intended for distribution.",
+    "totalDownloads": "25",
+    "link": "https://www.npmjs.com/package/@lloydjatkinson/astro-snipcart-design-system"
+  },
+  {
+    "packageName": " @advanced-astro/lottie  ",
+    "desc": "The next level 🔥 experience of Astro 🚀 in a frenzy of Lottie wizardry 🪄",
+    "totalDownloads": "25",
+    "link": "https://github.com/advanced-astro/lottie#readme.md",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " lucides-astro  ",
+    "desc": "Get your Lucide icons right into your Astro project",
+    "totalDownloads": "24",
+    "link": "https://lucide-astro.dzeio.com"
+  },
+  {
+    "packageName": " deno-astro-adapter  ",
+    "desc": "Deploy your site to a Deno server",
+    "totalDownloads": "24",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/deno/"
+  },
+  {
+    "packageName": " @forastro/flow  ",
+    "desc": "This package is a package that allows you to use flow components inside of Astro.\n Flow components are components that emulate control flow in the form of components.\n These components are typed well.",
+    "totalDownloads": "24",
+    "link": "https://forastro-docs.onrender.com/libraries/flow"
+  },
+  {
+    "packageName": " @astro-openapi/typegen  ",
+    "desc": "See project documentation.",
+    "totalDownloads": "24",
+    "link": "https://www.npmjs.com/package/@astro-openapi/typegen"
+  },
+  {
+    "packageName": " @astro-openapi/bundler  ",
+    "desc": "See project documentation.",
+    "totalDownloads": "24",
+    "link": "https://www.npmjs.com/package/@astro-openapi/bundler"
+  },
+  {
+    "packageName": " @astro-openapi/backend  ",
+    "desc": "An Astro JS Server-side-rendering (SSR) requests adapter for OpenAPI Backend.",
+    "totalDownloads": "24",
+    "link": "https://www.npmjs.com/package/@astro-openapi/backend"
+  },
+  {
+    "packageName": " reactive-astro-sidebar  ",
+    "desc": "Reactive Astro Sidebar will make your sidebar reactive as it promise to react when ever the main content of your docs change and update itself to highlight that, hope that It will make you life easier.",
+    "totalDownloads": "23",
+    "link": "https://github.com/sacarvy/Reactive_Sidebar#README",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-zod-to-json-schema  ",
+    "desc": "Auto-generate JSON schemas from your Astro's Content Collections Zod schemas.",
+    "totalDownloads": "23",
+    "link": "https://www.npmjs.com/package/astro-zod-to-json-schema"
+  },
+  {
+    "packageName": " astro-utils  ",
+    "desc": "Various utils for astro",
+    "totalDownloads": "23",
+    "link": "https://github.com/warpsio/astro-utils",
+    "stars": 4,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-simple-art-direction  ",
+    "desc": "A simple art direction for Astro.",
+    "totalDownloads": "23",
+    "link": "https://github.com/hollyteds/astro-simple-art-direction/#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " adom-typography  ",
+    "desc": "A typography component for Astro and React to use in your projects.",
+    "totalDownloads": "23",
+    "link": "https://github.com/adominguez/adom-typography",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @simpleauthority/astro-icon-ssr  ",
+    "desc": "A straight-forward `Icon` component for Astro.",
+    "totalDownloads": "23",
+    "link": "https://github.com/natemoo-re/astro-icon#readme",
+    "stars": 1002,
+    "forks": 57,
+    "issues": 35
+  },
+  {
+    "packageName": " @sarissa/pagination  ",
+    "desc": "Add page number buttons for pagination. Automaticly add and disable numbers as current page number.",
+    "totalDownloads": "23",
+    "link": "https://github.com/iozcelik/SarissaPagination",
+    "stars": 10,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @chatmeter/astro-cloudflare  ",
+    "desc": "temporary fork of @astrojs/cloudflare",
+    "totalDownloads": "23",
+    "link": "https://docs.astro.build/en/guides/integrations-guide/cloudflare/"
+  },
+  {
+    "packageName": " @bluvenit/astro-adapter-azure  ",
+    "desc": "Deploy your site to Azure using SWA",
+    "totalDownloads": "23",
+    "link": "https://github.com/bluvenit/azure-adapter-azure#readme"
+  },
+  {
+    "packageName": " astro-decap-cms-preview-template  ",
+    "desc": "Add Decap CMS’s admin dashboard to your Astro project",
+    "totalDownloads": "22",
+    "link": "https://github.com/advanced-astro/astro-decap-cms",
+    "stars": 5,
+    "forks": 1,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-travelens  ",
+    "desc": "Common components for travelens web site.",
+    "totalDownloads": "21",
+    "link": "https://github.com/travelens/astro-travelens",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-og-image  ",
+    "desc": "An astro integration to generate static Open Graph images, at build time",
+    "totalDownloads": "21",
+    "link": "https://github.com/Kendy205/astro-og-image",
+    "stars": 46,
+    "forks": 14,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-layouts  ",
+    "desc": "remark plugin to add folder-based layouts to MD and MDX files in Astro",
+    "totalDownloads": "21",
+    "link": "https://github.com/kevinzunigacuellar/astro-layouts#README",
+    "stars": 28,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-breakpoints  ",
+    "desc": "Provides cross languages breakpoints handlers for your app. SCSS mixin, JS hook and a DOM data attribute, all share the same responsive scale you choose to feed in.",
+    "totalDownloads": "21",
+    "link": "https://code.juliancataldo.com/component/astro-breakpoints"
+  },
+  {
+    "packageName": " @astro-openapi/gui-redoc  ",
+    "desc": "See project documentation.",
+    "totalDownloads": "21",
+    "link": "https://www.npmjs.com/package/@astro-openapi/gui-redoc"
+  },
+  {
+    "packageName": " @astro-openapi/gui-elements  ",
+    "desc": "See project documentation.",
+    "totalDownloads": "21",
+    "link": "https://www.npmjs.com/package/@astro-openapi/gui-elements"
+  },
+  {
+    "packageName": " @adammatthiesen/astro-commercejs  ",
+    "desc": "An Astro Integration to bring the CommerceJS SDK into Astro snap in package.",
+    "totalDownloads": "21",
+    "link": "https://github.com/adammatthiesen/astro-commercejs",
+    "stars": 6,
+    "forks": 0,
+    "issues": 5
+  },
+  {
+    "packageName": " astro-mdx-directive  ",
+    "desc": "Astro Integration for MDX-enhanced directive notation",
+    "totalDownloads": "20",
+    "link": "https://github.com/tetracalibers/astro-mdx-directive#readme",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @cfu288/worker  ",
+    "desc": "Use Web Workers in Astro",
+    "totalDownloads": "20",
+    "link": "https://github.com/astro-community/worker",
+    "stars": 12,
+    "forks": 4,
+    "issues": 0
+  },
+  {
+    "packageName": " @astro-reactive/form  ",
+    "desc": "The Reactive Form component for Astro 🔥",
+    "totalDownloads": "20",
+    "link": "https://astro-reactive.js.org"
+  },
+  {
+    "packageName": " @astro-aws/constructs  ",
+    "desc": "Constructs for deploying an Astro application to AWS Lambda",
+    "totalDownloads": "20",
+    "link": "https://astro-aws.org/"
+  },
+  {
+    "packageName": " astro-yandex-metrika  ",
+    "desc": "Yandex Metrika component for Astro",
+    "totalDownloads": "19",
+    "link": "https://github.com/ufocoder/astro-yandex-metrika",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @chisel-ui/astro  ",
+    "desc": "A collection of layout primitives used as building blocks for common layout patterns.",
+    "totalDownloads": "19",
+    "link": "https://chisel-ui.dev"
+  },
+  {
+    "packageName": " lefan-custom-elements-ssr  ",
+    "desc": "Custom elements renderer for ssr",
+    "totalDownloads": "17",
+    "link": "https://github.com/thepassle/custom-elements-ssr#readme",
+    "stars": 44,
+    "forks": 4,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-uno  ",
+    "desc": "Astro UnoCSS Integration",
+    "totalDownloads": "17",
+    "link": "https://github.com/AllanChain/astro-uno",
+    "stars": 20,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-terminal-player  ",
+    "desc": "Embed player for terminal sessions (recorded with asciinema) in your Astro project.\nUsing asciinema player under the hood.\nComes with full asciinema player settings support, typings and docs hints.",
+    "totalDownloads": "17",
+    "link": "https://code.juliancataldo.com/component/astro-terminal-player"
+  },
+  {
+    "packageName": " @astroutils/analytics  ",
+    "desc": "a simple analytics package for Astro",
+    "totalDownloads": "17",
+    "link": "https://github.com/gurkz-oss/astroutils/wiki/analytics",
+    "stars": 1,
+    "forks": 0,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-navigation  ",
+    "desc": "A plugin for creating hierarchical navigation in Astro projects. Supports breadcrumbs too!",
+    "totalDownloads": "16",
+    "link": "https://github.com/tony-sull/astro-navigation#readme",
+    "stars": 18,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-asciidoc  ",
+    "desc": "Support AsciiDoc pages in Astro",
+    "totalDownloads": "16",
+    "link": "https://github.com/shishkin/astro-asciidoc",
+    "stars": 17,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " @zokki/astro-brotli  ",
+    "desc": "brotli compression for astro static sites",
+    "totalDownloads": "16",
+    "link": "https://gitea.zokki.net/zokki/astro-brotli"
+  },
+  {
+    "packageName": " @futurefabric/astro-imagetools  ",
+    "desc": "Image Optimization tools for the Astro JS framework",
+    "totalDownloads": "16",
+    "link": "https://github.com/RafidMuhymin/astro-imagetools#readme",
+    "stars": 389,
+    "forks": 46,
+    "issues": 83
+  },
+  {
+    "packageName": " astrocraft  ",
+    "desc": "A Minecraft theme for Astro",
+    "totalDownloads": "15",
+    "link": "https://minecraft-theme.netlify.app"
+  },
+  {
+    "packageName": " astro-turnstile  ",
+    "desc": "Astro cloudflare turnstile integration",
+    "totalDownloads": "15",
+    "link": "https://github.com/hkbertoson/astro-turnstile",
+    "stars": 7,
+    "forks": 0,
+    "issues": 7
+  },
+  {
+    "packageName": " astro-social-images  ",
+    "desc": "Social images generator for Astro",
+    "totalDownloads": "15",
+    "link": "https://github.com/Princesseuh/astro-social-images#readme",
+    "stars": 53,
+    "forks": 2,
+    "issues": 6
+  },
+  {
+    "packageName": " astro-modernizr  ",
+    "desc": "Add Modernizr feature detection to your Astro site.",
+    "totalDownloads": "15",
+    "link": "https://github.com/YonicDev/astro-modernizr",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-feather-icons2  ",
+    "desc": "Feather icons for Astro (based on svelte-feather-icons by dylanblokhuis)",
+    "totalDownloads": "15",
+    "link": "https://github.com/aalfiann/astro-feather-icons2#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-emotion  ",
+    "desc": "Use Emotion CSS to style your Astro site.",
+    "totalDownloads": "15",
+    "link": "https://github.com/lilnasy/gratelets/tree/main/packages/scope",
+    "stars": 95,
+    "forks": 6,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-csv  ",
+    "desc": "An Astro integration that adds support for CSV files in data collections",
+    "totalDownloads": "15",
+    "link": "https://github.com/TheOtterlord/astro-csv",
+    "stars": 8,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " asmarss  ",
+    "desc": "A package that enables tracking the most recent posts of a Mastodon account and rendering them as an RSS feed.",
+    "totalDownloads": "15",
+    "link": "https://github.com/yplog/asmarss#readme",
+    "stars": 4,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " a11y-astro-components  ",
+    "desc": "This is a template for an Astro component library. Use this template for writing components to use in multiple projects or publish to NPM.",
+    "totalDownloads": "15",
+    "link": "https://www.npmjs.com/package/a11y-astro-components"
+  },
+  {
+    "packageName": " @lagoss/astro  ",
+    "desc": "Astro integration to deploy your site to Lagoss",
+    "totalDownloads": "15",
+    "link": "https://github.com/lagossapp/lagoss/tree/main/packages/integrations/astro",
+    "stars": 9,
+    "forks": 1,
+    "issues": 15
+  },
+  {
+    "packageName": " @jcblw/astro-site-integration  ",
+    "desc": "A way to leverage Vercel's Image Optimization API in Astro",
+    "totalDownloads": "15",
+    "link": "https://github.com/jcblw/astro-vercel-image",
+    "stars": 3,
+    "forks": 2,
+    "issues": 0
+  },
+  {
+    "packageName": " @e-xisto/astro-netlify  ",
+    "desc": "Deploy your site to Netlify",
+    "totalDownloads": "15",
+    "link": "https://github.com/e-xisto/astro-netlify#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " fullcart  ",
+    "desc": "Add stripe checkout to any website",
+    "totalDownloads": "14",
+    "link": "https://fullcart.dev/"
+  },
+  {
+    "packageName": " astro-tailwind-v4  ",
+    "desc": "Adds Astro support for Tailwind v4",
+    "totalDownloads": "14",
+    "link": "https://github.com/jdtjenkins/astro-tailwind-v4",
+    "stars": 3,
+    "forks": 1,
+    "issues": 6
+  },
+  {
+    "packageName": " astro-list-component  ",
+    "desc": "A List component for your project with svg elements.",
+    "totalDownloads": "14",
+    "link": "https://github.com/sacarvy#readme"
+  },
+  {
+    "packageName": " astro-decap  ",
+    "desc": "Astro Decap is an Astro integration to simplify the usage of Deacap CMS in your Astro projects.",
+    "totalDownloads": "14",
+    "link": "https://www.npmjs.com/package/astro-decap"
+  },
+  {
+    "packageName": " astro-client-interaction  ",
+    "desc": "Load and hydrate framework components on first interaction by adding a `client:interaction` directive.",
+    "totalDownloads": "14",
+    "link": "https://github.com/lilnasy/gratelets/tree/main/packages/client-interaction",
+    "stars": 95,
+    "forks": 6,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-browser-sync  ",
+    "desc": "Integrate BrowserSync into Astro.",
+    "totalDownloads": "14",
+    "link": "https://github.com/ACP-CODE/astro-browser-sync#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " @cyberkoalastudios/og-image-generator  ",
+    "desc": "Astro integration to generate Social Images from Astro Content Collections with custom blurry background that can be loaded via frontmatter.",
+    "totalDownloads": "14",
+    "link": "https://github.com/CyberKoalaStudios/og-image-generator#readme",
+    "stars": 16,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " simple-stack-frame  ",
+    "desc": "Rerender just the parts that change",
+    "totalDownloads": "13",
+    "link": "https://github.com/bholmesdev/simple-stack#readme",
+    "stars": 230,
+    "forks": 7,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-typograf  ",
+    "desc": "Text typographer for statically rendered files in Astro",
+    "totalDownloads": "13",
+    "link": "https://www.npmjs.com/package/astro-typograf"
+  },
+  {
+    "packageName": " astro-supabase  ",
+    "desc": "Supabase toolbar for Astro",
+    "totalDownloads": "13",
+    "link": "https://github.com/alexnguyennz/astro-supabase",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-rollup  ",
+    "desc": "AstroJS utility to resolve ES6 import/export for client side JavaScript",
+    "totalDownloads": "13",
+    "link": "https://github.com/shadichy/astro-rollup#readme",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-mdoc  ",
+    "desc": "```sh npm create astro@latest -- --template minimal ```",
+    "totalDownloads": "13",
+    "link": "https://www.npmjs.com/package/astro-mdoc"
+  },
+  {
+    "packageName": " astro-github-component  ",
+    "desc": "Adds a component to astro with statically built GitHub info and dynamic updated stars and forks.",
+    "totalDownloads": "13",
+    "link": "https://docs.vaporvee.com"
+  },
+  {
+    "packageName": " astro-image  ",
+    "desc": "Image util for astro",
+    "totalDownloads": "12",
+    "link": "https://github.com/warpsio/astro-image",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @prosellen/astro-navigation  ",
+    "desc": "An Astro integration to create navigation trees.",
+    "totalDownloads": "12",
+    "link": "https://github.com/prosellen/astro-navigation#readme",
+    "stars": 5,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " cv-astro  ",
+    "desc": "Astro component to display a print-friendly and minimalist CV inspired by BartoszJarocki/cv",
+    "totalDownloads": "11",
+    "link": "https://github.com/tribal2/cv-astro",
+    "stars": 8,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-zerog-fonts  ",
+    "desc": "> Privacy-friendly drop-in replacement for Google Fonts by Bunny CDN",
+    "totalDownloads": "11",
+    "link": "https://www.npmjs.com/package/astro-zerog-fonts"
+  },
+  {
+    "packageName": " astro-sections  ",
+    "desc": "Sections for astro",
+    "totalDownloads": "11",
+    "link": "https://github.com/warpsio/astro-sections",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @simply007org/kontent-ai-astro  ",
+    "desc": "An Astro integration for the Kontent.ai Headless CMS",
+    "totalDownloads": "11",
+    "link": "https://github.com/Simply007/kontent-ai-astro#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " @senseimarv/astro-icon  ",
+    "desc": "> This is a fork of Astro Icon with `@iconify/json` as peer dependency.",
+    "totalDownloads": "11",
+    "link": "https://github.com/natemoo-re/astro-icon#readme",
+    "stars": 1002,
+    "forks": 57,
+    "issues": 35
+  },
+  {
+    "packageName": " @astropub/doc  ",
+    "desc": "Create document layouts with minimal markup in Astro",
+    "totalDownloads": "11",
+    "link": "https://github.com/astro-community/doc",
+    "stars": 4,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-thumbor-image  ",
+    "desc": "Makes it easy to add Thumbor optimized images to your Astro app.",
+    "totalDownloads": "10",
+    "link": "https://github.com/KreischerPanoptic/astro-thumbor-image#readme",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-script  ",
+    "desc": "A simple script management component for Astro",
+    "totalDownloads": "10",
+    "link": "https://github.com/RafidMuhymin/astro-script#readme",
+    "stars": 8,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-prerender-patterns  ",
+    "desc": "Control rendering modes for all pages and endpoints in your Astro project right from the configuration.",
+    "totalDownloads": "10",
+    "link": "https://github.com/lilnasy/gratelets/tree/main/packages/prerender-patterns",
+    "stars": 95,
+    "forks": 6,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-localization  ",
+    "desc": "Localization utils for astro",
+    "totalDownloads": "10",
+    "link": "https://github.com/warpsio/astro-localization",
+    "stars": 4,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-link-previews  ",
+    "desc": "Generates rich GDPR-conform link previews / embeds in your astro project.",
+    "totalDownloads": "10",
+    "link": "https://suven.github.io/astro-link-previews/"
+  },
+  {
+    "packageName": " @jcha0713/astro-notion  ",
+    "desc": "Data fetching tool that connects Astro and Notion",
+    "totalDownloads": "10",
+    "link": "https://www.npmjs.com/package/@jcha0713/astro-notion"
+  },
+  {
+    "packageName": " astro-wp  ",
+    "desc": "Astro adapter to generate wordpress themes and php codes.",
+    "totalDownloads": "9",
+    "link": "https://www.npmjs.com/package/astro-wp"
+  },
+  {
+    "packageName": " astro-magneto  ",
+    "desc": "Let an element follow the mouse cursor with a graceful and smooth motion.",
+    "totalDownloads": "9",
+    "link": "https://github.com/LoStisWorld/astro-magneto#readme",
+    "stars": 4,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-hotjar  ",
+    "desc": "Hotjar component for Astro",
+    "totalDownloads": "9",
+    "link": "https://github.com/COQUARD-Cyrille-Freelance/astro-hotjar#readme",
+    "stars": 0,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " @nazfy/worker  ",
+    "desc": "Use Web Workers in Astro",
+    "totalDownloads": "9",
+    "link": "https://github.com/astro-community/worker",
+    "stars": 12,
+    "forks": 4,
+    "issues": 0
+  },
+  {
+    "packageName": " @altano/astro-opengraph-image  ",
+    "desc": "Render Open Graph Images from Astro Components",
+    "totalDownloads": "9",
+    "link": "https://github.com/altano/npm-packages/tree/main/packages/astro-opengraph-image",
+    "stars": 4,
+    "forks": 2,
+    "issues": 0
+  },
+  {
+    "packageName": " emote-comments  ",
+    "desc": "A simple npm node integration for customizable emote comments and comments sections",
+    "totalDownloads": "8",
+    "link": "https://github.com/ezoic-marketing/emote-npm#readme"
+  },
+  {
+    "packageName": " astro-monetization  ",
+    "desc": "This Astro component simplifies the process of adding monetization links to your Astro sites.",
+    "totalDownloads": "8",
+    "link": "https://github.com/devcer/astro-monetization#readme",
+    "stars": 5,
+    "forks": 0,
+    "issues": 13
+  },
+  {
+    "packageName": " astro-base-document  ",
+    "desc": "Provide sensible defaults for HTML base document.  \nThe goal is to reduce boilerplate when using multiple layouts in Astro projects.",
+    "totalDownloads": "8",
+    "link": "https://code.juliancataldo.com/component/astro-base"
+  },
+  {
+    "packageName": " astro-auth  ",
+    "desc": "TODO:",
+    "totalDownloads": "8",
+    "link": "TODO:"
+  },
+  {
+    "packageName": " @ivi/astro  ",
+    "desc": "Use ivi components within Astro.",
+    "totalDownloads": "8",
+    "link": "https://github.com/localvoid/ivi",
+    "stars": 697,
+    "forks": 20,
+    "issues": 7
+  },
+  {
+    "packageName": " wwwastro  ",
+    "desc": "This is a template for an Astro integration. Use this template for writing integrations to use in multiple projects or publish to NPM.",
+    "totalDownloads": "7",
+    "link": "https://www.npmjs.com/package/wwwastro"
+  },
+  {
+    "packageName": " astro-netlify-cloudinary  ",
+    "desc": "Add Netlify CMS’s admin dashboard to your Astro project",
+    "totalDownloads": "7",
+    "link": "https://www.npmjs.com/package/astro-netlify-cloudinary"
+  },
+  {
+    "packageName": " astro-lottie  ",
+    "desc": "Lottie library support for astro",
+    "totalDownloads": "7",
+    "link": "https://github.com/warpsio/astro-lottie",
+    "stars": 3,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-keyboard-controls  ",
+    "desc": "An Astro plugin that binds keyboard keys for actions like focus on search box and others",
+    "totalDownloads": "7",
+    "link": "https://github.com/lirantal/astro-keyboard-controls#readme",
+    "stars": 6,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-ixmage  ",
+    "desc": "Optimize your site images - ixmage.com",
+    "totalDownloads": "7",
+    "link": "https://github.com/readonlychild/astro-ixmage#readme",
+    "stars": 13,
+    "forks": 0,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-form  ",
+    "desc": "Forms for astro",
+    "totalDownloads": "7",
+    "link": "https://github.com/warpsio/astro-form",
+    "stars": 3,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @rebelchris/astro-static-tweet  ",
+    "desc": "This is a open source Astro component that allows you to embed a Tweet as static HTML in your Astro site.",
+    "totalDownloads": "7",
+    "link": "https://github.com/rebelchris/astro-static-tweet#readme",
+    "stars": 35,
+    "forks": 4,
+    "issues": 0
+  },
+  {
+    "packageName": " @matthiesenxyz/astro-mcserverstatus  ",
+    "desc": "Minecraft server Status helpers and widgets for your Astro site",
+    "totalDownloads": "7",
+    "link": "https://matthiesen.xyz"
+  },
+  {
+    "packageName": " @lagon/astro  ",
+    "desc": "Astro integration to deploy your site to Lagon",
+    "totalDownloads": "7",
+    "link": "https://github.com/lagonapp/lagon/tree/main/packages/integrations/astro",
+    "stars": 1304,
+    "forks": 59,
+    "issues": 52
+  },
+  {
+    "packageName": " @astro_ui/button  ",
+    "desc": "This is a template for an Astro component library. Use this template for writing components to use in multiple projects or publish to NPM.",
+    "totalDownloads": "7",
+    "link": "https://www.npmjs.com/package/@astro_ui/button"
+  },
+  {
+    "packageName": " @altano/astro-html-to-image  ",
+    "desc": "Render Astro components to images",
+    "totalDownloads": "7",
+    "link": "https://github.com/altano/npm-packages/tree/main/packages/astro-html-to-image",
+    "stars": 4,
+    "forks": 2,
+    "issues": 0
+  },
+  {
+    "packageName": " @advanced-astro/toast  ",
+    "desc": "**astro-toast** is a simple component for displaying toasts on your website.",
+    "totalDownloads": "7",
+    "link": "https://github.com/advenced-astro/toast"
+  },
+  {
+    "packageName": " simple-stack-partial  ",
+    "desc": "Add partial rendering to your Astro project",
+    "totalDownloads": "6",
+    "link": "https://github.com/bholmesdev/simple-stack#readme",
+    "stars": 230,
+    "forks": 7,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-testbed  ",
+    "desc": "Complete toolbox for Astro / JSX component testing and analysis.\nFor design systems, storybooks, local dev. isolation, documentation…\n",
+    "totalDownloads": "6",
+    "link": "https://code.juliancataldo.com/component/astro-testbed"
+  },
+  {
+    "packageName": " astro-markdown-cms  ",
+    "desc": "An Astro Integration to provide a Flat-File CMS",
+    "totalDownloads": "6",
+    "link": "https://github.com/christiankozalla/astro-markdown-cms#readme",
+    "stars": 6,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-jquery  ",
+    "desc": null,
+    "totalDownloads": "6",
+    "link": "https://www.npmjs.com/package/astro-jquery"
+  },
+  {
+    "packageName": " @tigrisdata/astro  ",
+    "desc": "Access NoSQL data from your Astro site.",
+    "totalDownloads": "6",
+    "link": "https://github.com/tigrisdata/tigris-astro#readme",
+    "stars": 4,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " create-djazztro  ",
+    "desc": "Template used to create a new project with djazztro",
+    "totalDownloads": "5",
+    "link": "https://bwc9876.github.io/Djazztro"
+  },
+  {
+    "packageName": " astro-transitions-lottie  ",
+    "desc": "Use Lottie animations within your Astro website",
+    "totalDownloads": "5",
+    "link": "https://github.com/giuseppelt/astro-lottie#readme.md",
+    "stars": 26,
+    "forks": 6,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-mithril  ",
+    "desc": "Use Mithril components within Astro",
+    "totalDownloads": "5",
+    "link": "https://github.com/pep108/astro-mithril",
+    "stars": 10,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-github  ",
+    "desc": "Showing the Github Stars badge on Astro",
+    "totalDownloads": "5",
+    "link": "https://github.com/mzaini30/astro-github#readme",
+    "stars": 4,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-error-pages  ",
+    "desc": null,
+    "totalDownloads": "5",
+    "link": "https://www.npmjs.com/package/astro-error-pages"
+  },
+  {
+    "packageName": " astro-crank  ",
+    "desc": "Use Crank components within Astro",
+    "totalDownloads": "5",
+    "link": "https://github.com/bikeshaving/crank#readme",
+    "stars": 2682,
+    "forks": 77,
+    "issues": 22
+  },
+  {
+    "packageName": " astro-command  ",
+    "desc": "Astro component for static rendering of commands. This allows you build components in any language.",
+    "totalDownloads": "5",
+    "link": "https://github.com/trashhalo/astro-command#readme",
+    "stars": 28,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-code-editor  ",
+    "desc": "Embed code editors for YAML, Markdown, JS / TS, JSON…\nSpecifically tailored for each language.\nPowered by the Monaco Editor and helpers.",
+    "totalDownloads": "5",
+    "link": "https://code.juliancataldo.com/component/astro-code-editor"
+  },
+  {
+    "packageName": " agnosticui-astro  ",
+    "desc": "Astro + AgnosticUI integration",
+    "totalDownloads": "5",
+    "link": "https://astro.build"
+  },
+  {
+    "packageName": " @zokki/astro-minify  ",
+    "desc": "minification for astro static sites",
+    "totalDownloads": "5",
+    "link": "https://gitea.zokki.net/zokki/astro-minify"
+  },
+  {
+    "packageName": " @fratzinger/orama-plugin-astro  ",
+    "desc": "An Astro integration for Orama",
+    "totalDownloads": "5",
+    "link": "https://github.com/oramasearch/orama#readme",
+    "stars": 8290,
+    "forks": 275,
+    "issues": 41
+  },
+  {
+    "packageName": " @coderspirit/lyra-astro  ",
+    "desc": "An Astro integration for Lyra",
+    "totalDownloads": "5",
+    "link": "https://www.npmjs.com/package/@coderspirit/lyra-astro"
+  },
+  {
+    "packageName": " @astropub/contentful  ",
+    "desc": "Use Contentful in Astro",
+    "totalDownloads": "5",
+    "link": "https://github.com/astro-community/contentful",
+    "stars": 14,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " nativelatex  ",
+    "desc": "package to provide svg from tex in astro",
+    "totalDownloads": "4",
+    "link": "https://www.npmjs.com/package/nativelatex"
+  },
+  {
+    "packageName": " djazztro  ",
+    "desc": "The web development stack for astronauts with deadlines.",
+    "totalDownloads": "4",
+    "link": "https://bwc9876.github.io/Djazztro"
+  },
+  {
+    "packageName": " astrojs-bootstrap  ",
+    "desc": "Bootstrap components for Astro",
+    "totalDownloads": "4",
+    "link": "https://github.com/Susmita-Dey/astrojs-bootstrap#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-windicss  ",
+    "desc": "Windicss + Astro integrations",
+    "totalDownloads": "4",
+    "link": "https://github.com/enpitsuLin/astro-windicss#readme",
+    "stars": 3,
+    "forks": 2,
+    "issues": 3
+  },
+  {
+    "packageName": " astro-webvar-components  ",
+    "desc": "Welcome to Webvar Components, a unique solution designed to simplify web development for everyone. As a developer, I've seen firsthand the challenges of maintaining personal and small business websites. The advent of Astro JS opened a new world of possibi",
+    "totalDownloads": "4",
+    "link": "https://github.com/studioalex/astro-webvar-components#readme",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-vercel-image  ",
+    "desc": "A way to leverage Vercel's Image Optimization API in Astro",
+    "totalDownloads": "4",
+    "link": "https://github.com/jcblw/astro-vercel-image",
+    "stars": 3,
+    "forks": 2,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-textcircle  ",
+    "desc": "If you want to showcase your text in a circular layout, give this Astro component a try.",
+    "totalDownloads": "4",
+    "link": "https://github.com/LoStisWorld/astro-textcircle#readme",
+    "stars": 5,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-tei  ",
+    "desc": "Astro component for TEI as Custom Elements",
+    "totalDownloads": "4",
+    "link": "https://github.com/raffazizzi/astro-tei#readme",
+    "stars": 2,
+    "forks": 2,
+    "issues": 2
+  },
+  {
+    "packageName": " astro-smartlook  ",
+    "desc": "Smartlook component for Astro",
+    "totalDownloads": "4",
+    "link": "https://github.com/COQUARD-Cyrille-Freelance/astro-smartlook#readme",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-netlify-components  ",
+    "desc": "Astro components for Netlify",
+    "totalDownloads": "4",
+    "link": "https://github.com/seanmcp/astro-netlify-components#readme",
+    "stars": 0,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-merge-styles  ",
+    "desc": "Serve all stylesheets from all pages for SSR apps in Astro",
+    "totalDownloads": "4",
+    "link": "https://github.com/rellfy/astro-merge-styles",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-mastodon-embed  ",
+    "desc": "A component for embedding Mastodon posts in an Astro site.",
+    "totalDownloads": "4",
+    "link": "https://github.com/ghall89/astro-mastodon-embed",
+    "stars": 5,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-i18n-plus  ",
+    "desc": "Astro-i18n plus is an international plugin that automates basic operations without the need for manual page management or interference with your src directory.",
+    "totalDownloads": "4",
+    "link": "https://github.com/jianghong008/astro-i18n-plus/tree/master/packages/astro-i18n-plus",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-footers  ",
+    "desc": "Collection of footers for astro",
+    "totalDownloads": "4",
+    "link": "https://github.com/warpsio/astro-footers",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @statsy/astro  ",
+    "desc": null,
+    "totalDownloads": "4",
+    "link": "https://www.npmjs.com/package/@statsy/astro"
+  },
+  {
+    "packageName": " @jackcarey/astro-lunr  ",
+    "desc": "An Astro integration to generate Lunr search index at build time",
+    "totalDownloads": "4",
+    "link": "https://github.com/jackcarey/astro-lunr",
+    "stars": 10,
+    "forks": 0,
+    "issues": 3
+  },
+  {
+    "packageName": " @beoe/astro-graphviz  ",
+    "desc": "Astro graphviz component",
+    "totalDownloads": "4",
+    "link": "https://github.com/stereobooster/beoe#readme",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @astropub/experiments  ",
+    "desc": "A collection of experimental Astro components and tooling.",
+    "totalDownloads": "4",
+    "link": "https://github.com/astro-community/experiments#readme"
+  },
+  {
+    "packageName": " @astro-tei/react  ",
+    "desc": "Astro component for TEI as Custom Elements with React support",
+    "totalDownloads": "4",
+    "link": "https://github.com/raffazizzi/astro-tei#readme",
+    "stars": 2,
+    "forks": 2,
+    "issues": 2
+  },
+  {
+    "packageName": " datakata-design  ",
+    "desc": "Set of components for Data Kata ecosystem",
+    "totalDownloads": "3",
+    "link": "https://www.npmjs.com/package/datakata-design"
+  },
+  {
+    "packageName": " contentful-astro  ",
+    "desc": "An Astro integration for the Contentful Headless CMS",
+    "totalDownloads": "3",
+    "link": "https://github.com/ajsummerfield/contentful-astro#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " checkoutjoy-astro-sst  ",
+    "desc": "Adapter for Astro apps to work on CheckoutJoy Storefront.",
+    "totalDownloads": "3",
+    "link": "https://github.com/mdwt/checkoutjoy-astro-ssr#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astros-style  ",
+    "desc": "Style for astros theme",
+    "totalDownloads": "3",
+    "link": "https://github.com/warpsio/astros-style",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-sidecar  ",
+    "desc": "Watch and execute TypeScript processes alongside your Astro development server. Useful for mocking, WebSocket, bundler…",
+    "totalDownloads": "3",
+    "link": "https://github.com/JulianCataldo/astro-sidecar#readme",
+    "stars": 8,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-pandoc  ",
+    "desc": "Astro component for using pandoc to convert content. This allows you to embed any format pandoc supports.  - Supported formats https://pandoc.org/MANUAL.html#general-options - [Demo](https://github.com/trashhalo/astro-pandoc/blob/main/src/components/Demo.",
+    "totalDownloads": "3",
+    "link": "https://github.com/trashhalo/astro-pandoc#readme",
+    "stars": 15,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-out-proxy  ",
+    "desc": "astro-out-proxy provides an easy way to intercept external links in an Astro app",
+    "totalDownloads": "3",
+    "link": "https://github.com/Elod-T/astro-out-proxy",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-microsoft-clarity  ",
+    "desc": "Provides microsoft clarity snippet injection.",
+    "totalDownloads": "3",
+    "link": "https://xxxx"
+  },
+  {
+    "packageName": " astro-mapped-images  ",
+    "desc": "An Astro image component that handles both local and external images and includes the correct width and height attributes using pre-generated image maps.",
+    "totalDownloads": "3",
+    "link": "https://github.com/techaurelian/astro-mapped-images",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-imagekit  ",
+    "desc": "Integrate the ImageKit media provider in your Astro projects. Auto-synchronization, CLI, Component.",
+    "totalDownloads": "3",
+    "link": "https://www.npmjs.com/package/astro-imagekit"
+  },
+  {
+    "packageName": " astro-headers  ",
+    "desc": "Collection of configurable headers for astro",
+    "totalDownloads": "3",
+    "link": "https://github.com/warpsio/astro-headers",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-control  ",
+    "desc": "Utility components for more ergonomic Astro rendering.",
+    "totalDownloads": "3",
+    "link": "https://www.npmjs.com/package/astro-control"
+  },
+  {
+    "packageName": " astro-adoc  ",
+    "desc": "AsciiDoctor inside Astro",
+    "totalDownloads": "3",
+    "link": "https://github.com/devidw/astro-addons/tree/main/packages/astro-adoc#readme",
+    "stars": 2,
+    "forks": 1,
+    "issues": 1
+  },
+  {
+    "packageName": " @rshackleton/astro-portabletext  ",
+    "desc": "Render Portable Text block content with Astro components.",
+    "totalDownloads": "3",
+    "link": "https://github.com/rshackleton/astro-portabletext#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 6
+  },
+  {
+    "packageName": " @lyrasearch/plugin-astro  ",
+    "desc": "An Astro integration for Lyra",
+    "totalDownloads": "3",
+    "link": "https://github.com/LyraSearch/plugin-astro#readme"
+  },
+  {
+    "packageName": " @astroshuttle/core  ",
+    "desc": null,
+    "totalDownloads": "3",
+    "link": "https://www.npmjs.com/package/@astroshuttle/core"
+  },
+  {
+    "packageName": " @astro-github-elements/time  ",
+    "desc": "An Astro wrapper for the '@github/relative-time-element' package",
+    "totalDownloads": "3",
+    "link": "https://github.com/BryceRussell/astro-github-elements/tree/main/packages/time#readme",
+    "stars": 3,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @astro-component/button  ",
+    "desc": "Astro js Button Component - 0 Javascript",
+    "totalDownloads": "3",
+    "link": "https://github.com/astro-component/button#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " sifra  ",
+    "desc": "A toolkit for writing interactive tutorials",
+    "totalDownloads": "2",
+    "link": "https://github.com/yonkeltron/sifra#readme",
+    "stars": 1,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " checkoutjoy-astro-ssr  ",
+    "desc": "Adapter for Astro apps to work on CheckoutJoy Storefront.",
+    "totalDownloads": "2",
+    "link": "https://github.com/mdwt/checkoutjoy-astro-ssr#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astrosortfilter  ",
+    "desc": "(actually, no filters yet)",
+    "totalDownloads": "2",
+    "link": "https://www.npmjs.com/package/astrosortfilter"
+  },
+  {
+    "packageName": " astroid  ",
+    "desc": "Extend Astro Routing",
+    "totalDownloads": "2",
+    "link": "https://www.npmjs.com/package/astroid"
+  },
+  {
+    "packageName": " astro-space-agency  ",
+    "desc": "Astro Space Agency is a component library for withastro/astro with spaceship building in mind",
+    "totalDownloads": "2",
+    "link": "https://github.com/Chrissdroid/ASA#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 1
+  },
+  {
+    "packageName": " astro-sal  ",
+    "desc": "Sal library support for astro",
+    "totalDownloads": "2",
+    "link": "https://github.com/warpsio/astro-sal",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-meta-blogspot  ",
+    "desc": null,
+    "totalDownloads": "2",
+    "link": "https://github.com/mzaini30/astro-meta-blogspot#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-meta  ",
+    "desc": null,
+    "totalDownloads": "2",
+    "link": "https://github.com/mzaini30/astro-meta#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-internalise-css  ",
+    "desc": "Astro integration to internalise all external style sheets in HTML files.",
+    "totalDownloads": "2",
+    "link": "https://github.com/tobias-edwards/astro-internalise-css#readme",
+    "stars": 1,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-div  ",
+    "desc": "It's only a <div />",
+    "totalDownloads": "2",
+    "link": "https://github.com/mzaini30/astro-div#readme",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " astro-accessible-patterns  ",
+    "desc": "Docs coming soon.",
+    "totalDownloads": "2",
+    "link": "https://github.com/anuarhdz/astro-accessible-patterns#readme",
+    "stars": 0,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @westtrade/astro-form  ",
+    "desc": "Easy to use validation and form handling for Astro SSR 🪄",
+    "totalDownloads": "2",
+    "link": "https://github.com/westtrade/astro-form#readme",
+    "stars": 4,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @tokencss/astro  ",
+    "desc": null,
+    "totalDownloads": "2",
+    "link": "https://www.npmjs.com/package/@tokencss/astro"
+  },
+  {
+    "packageName": " @ryandejaegher/my-component  ",
+    "desc": "This is an example package, exported as `@example/my-component`. It consists of two Astro components, **Button** and **Heading**.",
+    "totalDownloads": "2",
+    "link": "https://www.npmjs.com/package/@ryandejaegher/my-component"
+  },
+  {
+    "packageName": " @ryandejaegher/my-astro-component  ",
+    "desc": "This is an example package, exported as `@example/my-component`. It consists of two Astro components, **Button** and **Heading**.",
+    "totalDownloads": "2",
+    "link": "https://www.npmjs.com/package/@ryandejaegher/my-astro-component"
+  },
+  {
+    "packageName": " @rtech-public/astro-fluid-design  ",
+    "desc": "An Astro Component for integration with Fluid Design System [utopia]",
+    "totalDownloads": "2",
+    "link": "https://github.com/RolginRoman/rtech/",
+    "stars": 3,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " @nordic-game-lab/astro-gtm  ",
+    "desc": "Provides snippets injection for Google Tag manager",
+    "totalDownloads": "2",
+    "link": "https://wiki.nordicgamelab.org/astro-gtm"
+  },
+  {
+    "packageName": " @mcpronovost/nx-auth  ",
+    "desc": "Custom auth package",
+    "totalDownloads": "2",
+    "link": "https://www.npmjs.com/package/@mcpronovost/nx-auth"
+  },
+  {
+    "packageName": " @jesusdmedinac/astro-notion  ",
+    "desc": "Data fetching tool that connects Astro and Notion",
+    "totalDownloads": "2",
+    "link": "https://www.npmjs.com/package/@jesusdmedinac/astro-notion"
+  },
+  {
+    "packageName": " @jee-r/astro-decap-cms  ",
+    "desc": "Add Decap CMS’s admin dashboard to your Astro project",
+    "totalDownloads": "2",
+    "link": "https://github.com/jee-r/astro-decap-cms",
+    "stars": 2,
+    "forks": 1,
+    "issues": 0
+  },
+  {
+    "packageName": " @jackcarey/astro-filter-content  ",
+    "desc": "Astro components to enable DOM filtering of content within a page.",
+    "totalDownloads": "2",
+    "link": "https://github.com/jackcarey/astro-filter-content#readme",
+    "stars": 4,
+    "forks": 0,
+    "issues": 2
+  },
+  {
+    "packageName": " @birdgg/astro-type-writter  ",
+    "desc": "A astro type writter writen in pure js",
+    "totalDownloads": "2",
+    "link": "https://github.com/birdgg/astro-type-writter"
+  },
+  {
+    "packageName": " @amdglobal/astro-i18next  ",
+    "desc": "An astro integration of i18next + some utility components to help you translate your astro websites!",
+    "totalDownloads": "2",
+    "link": "https://astro-i18next.yassinedoghri.com/"
+  },
+  {
+    "packageName": " position-component  ",
+    "desc": "```bash # install with npm npm i position-component # or yarn yarn create astro # or pnpm pnpm create astro@latest ```",
+    "totalDownloads": "1",
+    "link": "https://github.com/sacarvy/astro-components/tree/master/position-component",
+    "stars": 2,
+    "forks": 0,
+    "issues": 0
+  },
+  {
+    "packageName": " hsu-blog  ",
+    "desc": "A beautiful, customized, personal blog theme for Astro",
+    "totalDownloads": "1",
+    "link": "https://github.com/charles-hsuz/HsuBlog#readme"
+  },
+  {
+    "packageName": " garlic-astro  ",
+    "desc": "This is a template for an Astro component library. Use this template for writing components to use in multiple projects or publish to NPM.",
+    "totalDownloads": "1",
+    "link": "https://github.com/velocitatem/garlic/tree/main",
+    "stars": 52,
+    "forks": 0,
+    "issues": 3
+  },
+  {
+    "packageName": " @m4rrc0/astro-fetch-ahead  ",
+    "desc": "Astro integration to do async stuff before the actual build",
+    "totalDownloads": "1",
+    "link": "https://github.com/m4rrc0/poko-notion/astro-integrations/astro-fetch-ahead",
+    "stars": 8,
+    "forks": 2,
+    "issues": 0
+  }
+]
